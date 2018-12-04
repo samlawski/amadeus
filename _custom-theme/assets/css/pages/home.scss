@@ -152,6 +152,9 @@
     [type="submit"] {
       color: #222;
     }
+    [type="date"] {
+      margin-bottom: 0;
+    }
 
     .termine {
       color: rgba(213, 234, 232, 0.6);
@@ -166,6 +169,16 @@
       text-wrap: nowrap;
       max-width: 100%;
       overflow: scroll;
+    }
+    .termin__warning {
+      display: block;
+      color: tomato;
+      margin-bottom: 20px;
+
+      opacity: 0;
+      transition: opacity .3s;
+
+      &.active {opacity: 1;}
     }
   }
 }

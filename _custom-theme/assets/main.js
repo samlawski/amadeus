@@ -19,7 +19,14 @@ $('.hamburger').click(function(){
 })
 
 // Form
+// Validate Termin
 $('[name="datum"]').change(function() {
-    var date = $("[name='datum']").val();
-    console.log(date, 'validate whether a termin exists!')
+    var selectedDate = $("[name='datum']").val();
+    var bookedDates = Array.from(
+      $('.termine__list').find('strong').map(function(i,element){
+        return $(element).data('date')
+      })
+    )
+
+    $('.termin__warning').toggleClass('active', (bookedDates.indexOf(selectedDate) >= 0))
 });
