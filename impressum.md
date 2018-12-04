@@ -1,4 +1,5 @@
 ---
+id: impressum
 layout: page
 title: Impressum
 ---

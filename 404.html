@@ -1,5 +1,7 @@
 ---
 layout: default
+erste_zeile: Diese Seite gibt es leider nicht.
+zweite_zeile: The requested page could not be found.
 ---
 
 <style type="text/css" media="screen">
@@ -19,6 +21,6 @@ layout: default
 <div class="container">
   <h1>404</h1>
 
-  <p><strong>Page not found :(</strong></p>
-  <p>The requested page could not be found.</p>
+  <p><strong>{{ page.erste_zeile }}</strong></p>
+  <p>{{ page.zweite_zeile }}</p>
 </div>

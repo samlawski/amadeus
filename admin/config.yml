@@ -5,27 +5,34 @@ backend:
   #   - admin
   #   - editor
 # publish_mode: editorial_workflow
-media_folder: "media" # Media files will be stored in the repo under ./media
+media_folder: "./media" # Media files will be stored in the repo under ./media
 # public_folder: "/media" # The src attribute for uploaded media will begin with ./media
 collections:
 - label: "Seiten"
   name: "seiten"
   files:
+    - label: "Hauptseite"
+      name: "home"
+      file: "index.html"
+      format: "yaml-frontmatter"
+      extension: "html"
+      fields:
+        - {label: Titel, name: title, widget: string}
+        - label: Predigten
+          name: predigten
+          widget: list
+          fields:
+            - {label: Titel, name: title, widget: string}
+            - {label: Datum, name: date, widget: date, format: "DD.MM.YYYY"}
+            - {label: Audiodatei, name: file, widget: file}
+    - label: "Fehlerseite (404)"
+      name: "404"
+      file: "404.html"
+      fields:
+        - {label: Erste Zeile, name: erste_zeile, widget: string}
+        - {label: Zweite Zeile, name: zweite_zeile, widget: markdown}
     - label: "Impressum"
       name: "impressum"
       file: "impressum.md"
       fields:
         - {label: Title, name: title, widget: string}
-        # - {label: Content, name: content, widget: markdown}
-    # - label: "Locations Page"
-    #   name: "locations"
-    #   file: "site/content/locations.yml"
-    #   fields:
-    #     - {label: Title, name: title, widget: string}
-    #     - {label: Intro, name: intro, widget: markdown}
-    #     - label: Locations
-    #       name: locations
-    #       widget: list
-    #       fields:
-    #         - {label: Name, name: name, widget: string}
-    #         - {label: Address, name: address, widget: string}
