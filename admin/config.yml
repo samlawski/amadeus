@@ -11,20 +11,6 @@ collections:
 - label: "Seiten"
   name: "seiten"
   files:
-    - label: "Hauptseite"
-      name: "home"
-      file: "index.html"
-      # format: "frontmatter"
-      # extension: "html"
-      fields:
-        - {label: Titel, name: title, widget: string}
-        - label: Predigten
-          name: predigten
-          widget: list
-          fields:
-            - {label: Titel, name: title, widget: string}
-            - {label: Datum, name: date, widget: date, format: "DD.MM.YYYY"}
-            - {label: Audiodatei, name: file, widget: file}
     - label: "Impressum"
       name: "impressum"
       file: "impressum.md"
