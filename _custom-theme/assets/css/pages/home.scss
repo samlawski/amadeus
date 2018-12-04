@@ -95,7 +95,8 @@
   #ressourcen {
     @media(min-width: 620px) {
       &>.content {
-        padding: 60px 0;
+        padding-top: 60px;
+        padding-bottom: 60px;
 
         display: flex;
         &>* { flex-basis: 50%; }
