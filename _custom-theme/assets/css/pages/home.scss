@@ -1,0 +1,171 @@
+/*
+
+- Header
+- Über Mich
+- Ressourcen
+- Termine
+- Kontakt
+
+*/
+
+[data-page="home"] {
+  /* HEADER */
+  &>header {
+    &>.content {
+      display: flex;
+      flex-direction: column-reverse;
+
+      @media(min-width: 620px) {
+        flex-direction: row;
+        &>* { flex-basis: 50%; }
+      }
+    }
+
+    .portrait {
+      margin-bottom: -60px;
+
+      @media(min-width: 620px) {
+        margin-bottom: -250px;
+      }
+    }
+
+    img {
+      max-width: 100%;
+
+      border-radius: 50%;
+      border: 30px solid white;
+
+      @media(min-width: 620px) {
+        position: sticky;
+        top: 83px; /* height of the nav */
+      }
+    }
+
+    .text {
+      margin: 30px;
+      @media(min-width: 620px) {
+        margin: 150px 30px 150px 0;
+      }
+
+      h2 {
+        margin-top: 10px;
+        font-size: 1rem;
+        margin-bottom: 0;
+      }
+    }
+
+    a {
+      cursor: pointer;
+      margin: 10px 0;
+      display: block;
+    }
+
+    .header__credo {
+      max-height: 1px;
+      overflow: hidden;
+      transition: max-height 1.5s ease;
+
+      &.open {
+        max-height: 9999px;
+      }
+    }
+  }
+
+  /* MAIN UEBERMICH */
+  #uebermich {
+    background-color: #01bc9a;
+    border-top: 60px solid #79c4b6;
+
+    @media(min-width: 620px) {
+      &>.content {
+        display: flex;
+        &>* { flex-basis: 50%; }
+      }
+    }
+
+    .box {
+      margin: 30px 0;
+      background-color: white;
+      box-shadow: 0 1px 5px 1px rgba(0,0,0,0.2);
+      padding: 30px;
+    }
+  }
+
+  /* MAIN RESSOURCEN */
+  #ressourcen {
+    @media(min-width: 620px) {
+      &>.content {
+        padding: 60px 0;
+
+        display: flex;
+        &>* { flex-basis: 50%; }
+      }
+    }
+
+    .artikel {
+      flex-basis: 70%;
+
+      @media(max-width: 619px){
+        border-bottom: 1px solid #ccc;
+        padding-bottom: 40px;
+        margin-bottom: 40px;
+      }
+    }
+    article {
+      margin: 10px 0;
+      @media(min-width: 620px){ margin: 10px 30px 10px 0; }
+
+      padding: 15px;
+      box-shadow: 0 1px 5px 1px rgba(0,0,0,0.2);
+    }
+
+    .predigten {
+      flex-basis: 29%;
+    }
+    .predigt {
+      margin-bottom: 20px;
+    }
+  }
+
+  #kontakt {
+    background-color: #4b5452;
+    color: #d5eae8; // rgb(213, 234, 232)
+
+    .content>h2 {
+      text-align: center;
+    }
+
+    form {
+      width: 600px;
+      max-width: 100%;
+      margin: auto;
+    }
+
+    input,
+    textarea {
+      color: #d5eae8; // rgb(213, 234, 232)
+      width: 100%;
+      display: block;
+      margin-bottom: 20px;
+    }
+
+    [type="submit"] {
+      color: #222;
+    }
+
+    .termine {
+      color: rgba(213, 234, 232, 0.6);
+      font-size: 0.8rem;
+      margin-top: 10px;
+      h2 {
+        font-size: 0.8rem;
+        margin-bottom: 0;
+      }
+    }
+    .termine__list {
+      text-wrap: nowrap;
+      max-width: 100%;
+      overflow: scroll;
+    }
+  }
+}

@@ -1,0 +1,150 @@
+---
+id: home
+layout: home
+---
+
+<nav>
+  <div class="spacer"></div>
+  <div class="logo">
+    <a href="/"><img src="/media/layout/logo.png" alt="Amadeus Vadonis - Logo"></a>
+  </div>
+  <div class="menu">
+    <div class="hamburger">
+      <div class="line"></div>
+      <div class="line"></div>
+      <div class="line"></div>
+    </div>
+    <ul>
+      <li><a href="#uebermich">Über Mich</a></li>
+      <li><a href="#ressourcen">Ressourcen</a></li>
+      <li><a href="#kontakt">Kontakt & Termine</a></li>
+      <li><a href="/">DE</a>/<a href="/en">EN</a></li>
+    </ul>
+  </div>
+</nav>
+
+
+<header>
+  <div class="content">
+    <div class="portrait">
+      <img src="/media/bilder/portrait.jpg" alt="Amadeus Vadonis - Portrait">
+    </div>
+    <div class="text">
+      <h1>Evangelisation, Predigten, Workshops</h1>
+      <h2>Laden Sie mich gerne zu Evangelisationsgottesdiensten oder Veranstaltungen zum Predigen ein.</h2>
+
+      <a data-target=".header__credo">Lesen Sie wofür ich stehe (Credo) &#x25BE;</a>
+      <p class="header__credo">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    </div>
+  </div>
+</header>
+
+
+<section id="uebermich">
+  <div class="content">
+    <div class="spacer"></div>
+    <div class="text">
+      <div class="box">
+        <h2>Über Mich</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section id="ressourcen">
+  <div class="content">
+    <div class="artikel">
+      <h2>Blog-Artikel</h2>
+
+      <article>
+        <h4>Das ist ein erster Artikel</h4>
+        <small>23.04.2018</small>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua...</p>
+        <a href="/blog/artikel">Weiterlesen ...</a>
+      </article>
+
+      <article>
+        <h4>Ein weiterer Artikeltitel</h4>
+        <small>30.04.2018</small>
+        <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur...</p>
+        <a href="/blog/artikel">Weiterlesen ...</a>
+      </article>
+
+      <article>
+        <h4>Der 3. Artikel im Bunde mit einem langen Titel</h4>
+        <small>01.04.2018</small>
+        <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat...</p>
+        <a href="/blog/artikel">Weiterlesen ...</a>
+      </article>
+
+      <a href="/blog">Zum Blog</a>
+
+    </div>
+    <div class="predigten">
+      <h2>Predigten</h2>
+
+      <div class="predigt">
+        <h4>Predigt Titel Eins</h4>
+        <small>01.04.2018</small>
+        <audio controls="controls" preload="none">
+          <source src=/media/predigten/test-audio.mp3" type="audio/mpeg">
+          Bitte updaten Sie Ihren Web Browser, um die Predigt anhören zu können.
+        </audio>
+      </div>
+
+      <div class="predigt">
+        <h4>Predigt Titel Eins</h4>
+        <small>01.04.2018</small>
+        <audio controls="controls" preload="none">
+          <source src=/media/predigten/test-audio.mp3" type="audio/mpeg">
+          Bitte updaten Sie Ihren Web Browser, um die Predigt anhören zu können.
+        </audio>
+      </div>
+
+      <div class="predigt">
+        <h4>Predigt Titel Eins</h4>
+        <small>01.04.2018</small>
+        <audio controls="controls" preload="none">
+          <source src=/media/predigten/test-audio.mp3" type="audio/mpeg">
+          Bitte updaten Sie Ihren Web Browser, um die Predigt anhören zu können.
+        </audio>
+      </div>
+
+      <a href="/predigten">Mehr Predigten ...</a>
+
+    </div>
+  </div>
+</section>
+
+
+<section id="kontakt">
+  <div class="content">
+    <h2>Kontakt</h2>
+    <form class="" action="index.html" method="post">
+      <label for="name">Name*</label>
+      <input type="text" name="name" value="" placeholder="Max Mustermann" required>
+      <label for="email">Email*</label>
+      <input type="email" name="email" value="" placeholder="max@mustermann.de" required>
+      <label for="datum">Terminwunsch</label>
+      <div class="termine">
+        <h2>Bereits gebucht in naher Zukunft:</h2>
+        <div class="termine__list">
+          <strong>05.08.2018</strong>, <strong>10.08.2018</strong>, <strong>23.08.2018</strong>, <strong>28.08.2018</strong>, <strong>30.08.2018</strong>, <strong>01.10.2018</strong>
+        </div>
+      </div>
+      <input type="date" name="datum" value="" placeholder="Datum">
+      <label for="nachricht">Nachricht*</label>
+      <textarea name="nachricht" placeholder="Nachricht ..." required></textarea>
+      <input type="submit" name="senden" value="Anfrage Senden">
+    </form>
+  </div>
+</section>
+
+
+<footer>
+  <a href="/impressum">Impressum</a>
+  &nbsp;|&nbsp;
+  <a href="/datenschutz">Datenschutz</a>
+</footer>

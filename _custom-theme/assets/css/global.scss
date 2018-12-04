@@ -1,0 +1,102 @@
+/*
+
+- Global styles
+- Typography
+- Forms
+- Buttons
+- Helper classes
+
+*/
+
+// Global Styles
+
+* { box-sizing: border-box; }
+body {
+  font-family: 'Open Sans', Helvetica, sans-serif;
+  font-size: 14px;
+  line-height: 1.5;
+  color: #222;
+}
+
+// Typography
+
+a {
+  text-decoration: none;
+  color: #01bc9a;
+  transition: text-decoration .3s;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+b, strong { font-weight: 700; }
+small { font-size: 0.7rem; }
+h1 {
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.1;
+
+  @media(max-width: 1000px) {
+    font-size: 3rem;
+  }
+  @media(max-width: 800px) {
+    font-size: 2rem;
+  }
+}
+h2 {
+  font-size: 2.6rem;
+  font-weight: 100;
+  margin-bottom: 30px;
+}
+h3 {
+  font-size: 2rem;
+  font-weight: 700;
+}
+h4, h5, h6 { font-weight: 700; }
+
+// Forms
+
+input,
+textarea {
+  background-color: transparent;
+  border: 1px solid rgba(0,0,0,0.7);
+  padding: 8px;
+  outline: none;
+
+  font-size: 14px;
+  font-family: 'Open Sans', Helvetica, sans-serif;
+
+  transition: border-color .3s;
+
+  &:active,
+  &:focus {
+    border-color: #01bc9a;
+  }
+}
+
+// Buttons
+
+[type="submit"],
+button {
+  font-size: 14px;
+  font-family: 'Open Sans', Helvetica, sans-serif;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 8px;
+
+  background-color: #01bc9a;
+  transition: background-color .3s;
+
+  &:hover {
+    background-color: #79c4b6;
+  }
+}
+
+// Helper Classes
+
+.content {
+  max-width: 1200px;
+  margin: auto;
+  padding: 20px;
+}
