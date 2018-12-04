@@ -1,6 +1,9 @@
 backend:
   name: git-gateway
   branch: master # Branch to update (optional; defaults to master)
+  # accept_roles: #optional - accepts all users if left out
+  #   - admin
+  #   - editor
 # publish_mode: editorial_workflow
 media_folder: "media" # Media files will be stored in the repo under ./media
 # public_folder: "/media" # The src attribute for uploaded media will begin with ./media
@@ -11,6 +14,8 @@ collections:
     - label: "Hauptseite"
       name: "home"
       file: "index.html"
+      format: "frontmatter"
+      extension: "html"
       fields:
         - {label: Titel, name: title, widget: string}
         - label: Predigten
@@ -20,6 +25,12 @@ collections:
             - {label: Titel, name: title, widget: string}
             - {label: Datum, name: date, widget: date, format: "DD.MM.YYYY"}
             - {label: Audiodatei, name: file, widget: file}
+    - label: "Impressum"
+      name: "impressum"
+      file: "impressum.md"
+      fields:
+        - {label: Title, name: title, widget: string}
+        # - {label: Content, name: content, widget: markdown}
     # - label: "Locations Page"
     #   name: "locations"
     #   file: "site/content/locations.yml"
