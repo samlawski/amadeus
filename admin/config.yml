@@ -14,8 +14,8 @@ collections:
     - label: "Hauptseite"
       name: "home"
       file: "index.html"
-      format: "frontmatter"
-      extension: "html"
+      # format: "frontmatter"
+      # extension: "html"
       fields:
         - {label: Titel, name: title, widget: string}
         - label: Predigten
