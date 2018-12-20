@@ -25,17 +25,20 @@
       margin-bottom: -60px;
 
       @media(min-width: 620px) {
-        margin-bottom: -250px;
+        margin-bottom: -300px;
+        padding: 30px;
       }
     }
 
     img {
+      width: 500px;
       max-width: 100%;
 
       border-radius: 50%;
       border: 30px solid white;
 
       @media(min-width: 620px) {
+        margin-top: 20px;
         position: sticky;
         top: 83px; /* height of the nav */
       }
@@ -44,7 +47,8 @@
     .text {
       margin: 30px;
       @media(min-width: 620px) {
-        margin: 150px 30px 150px 0;
+        margin: 120px 0;
+        padding: 30px;
       }
 
       h2 {

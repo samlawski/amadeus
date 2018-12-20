@@ -26,6 +26,9 @@ body>nav {
 
 
   padding: 10px;
+  @media(min-width: 620px) {
+    padding: 30px 10px;
+  }
 
   .logo {
     flex-grow: 0;
