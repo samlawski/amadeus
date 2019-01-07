@@ -22,6 +22,8 @@
     }
 
     .portrait {
+      margin-left: auto;
+      margin-right: auto;
       margin-bottom: -60px;
 
       @media(min-width: 620px) {
