@@ -2,6 +2,26 @@
 layout: default
 ---
 
-{{ content }}
+<nav class="content">
+  <div class="logo">
+    <a href="/"><img src="/media/layout/logo.png" alt="Amadeus Vadonis - Logo"></a>
+  </div>
+  <div class="spacer"></div>
+  <div class="menu">
+    <div class="hamburger">
+      <div class="line"></div>
+      <div class="line"></div>
+      <div class="line"></div>
+    </div>
+    <ul>
+      <li><a href="#uebermich">Über Mich</a></li>
+      <li><a href="#ressourcen">Ressourcen</a></li>
+      <li><a href="#kontakt">Kontakt & Termine</a></li>
+      <li><a href="/">DE</a>/<a href="/en">EN</a></li>
+    </ul>
+  </div>
+</nav>
 
-<!-- {% include footer.html %} -->
+<main>
+  {{ content }}
+</main>

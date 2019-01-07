@@ -10,7 +10,7 @@
 
 [data-page="home"] {
   /* HEADER */
-  &>header {
+  header {
     &>.content {
       display: flex;
       flex-direction: column-reverse;
@@ -132,51 +132,6 @@
     .predigt {
       margin-bottom: 20px;
       small {display: block; }
-    }
-  }
-
-  #kontakt {
-    background-color: #4b5452;
-    color: #d5eae8; // rgb(213, 234, 232)
-
-    .content>h2 {
-      text-align: center;
-    }
-
-    form {
-      width: 600px;
-      max-width: 100%;
-      margin: auto;
-    }
-
-    input,
-    textarea {
-      color: #d5eae8; // rgb(213, 234, 232)
-      width: 100%;
-      display: block;
-      margin-bottom: 20px;
-    }
-
-    [type="submit"] {
-      color: #222;
-    }
-    [type="date"] {
-      margin-bottom: 0;
-    }
-
-    .termine {
-      color: rgba(213, 234, 232, 0.6);
-      font-size: 0.8rem;
-      margin-top: 10px;
-      h2 {
-        font-size: 0.8rem;
-        margin-bottom: 0;
-      }
-    }
-    .termine__list {
-      text-wrap: nowrap;
-      max-width: 100%;
-      overflow: scroll;
     }
   }
 }

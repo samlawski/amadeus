@@ -1,0 +1,28 @@
+[data-page="blog"] {
+  nav {
+    max-width: 840px;
+  }
+  /* HEADER */
+  header h1 { text-align: center; }
+
+  /* MAIN */
+  main {
+    margin: auto;
+    max-width: 840px;
+  }
+
+  article {
+    margin: 10px 0 40px;
+    padding: 30px;
+    box-shadow: 0 1px 5px 1px rgba(0,0,0,0.2);
+
+    h2 {
+      margin-bottom: 0;
+      margin-top: 5px;
+    }
+    p {
+      margin-top: 15px;
+    }
+  }
+
+}
