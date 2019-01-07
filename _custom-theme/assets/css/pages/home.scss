@@ -178,15 +178,5 @@
       max-width: 100%;
       overflow: scroll;
     }
-    .termin__warning {
-      display: block;
-      color: tomato;
-      margin-bottom: 20px;
-
-      opacity: 0;
-      transition: opacity .3s;
-
-      &.active {opacity: 1;}
-    }
   }
 }
