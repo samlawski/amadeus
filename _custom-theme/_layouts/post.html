@@ -1,5 +1,18 @@
 ---
 layout: page
+style_id: post
 ---
 
-{{ content }}
+<header class="content">
+  <img src="{{ page.titel_bild }}" alt="">
+  <h1>{{ page.title }}</h1>
+  <small>{{ page.date | date: "%d.%m.%Y" }}</small>
+</header>
+
+<article class="content">
+  {{ content }}
+</article>
+
+<footer>
+  <a href="/blog">Zurück zum Blog</a>
+</footer>
