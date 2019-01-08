@@ -7,6 +7,14 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
+defaults:
+  -
+    scope:
+      path: "_posts" # empty string for all files
+    values:
+      excerpt_separator: "<!--mehr-->"
+
+
 # Build settings
 markdown: kramdown
 theme: custom-theme
