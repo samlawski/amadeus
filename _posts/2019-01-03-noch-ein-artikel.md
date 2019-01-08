@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Noch ein Artikel"
+titel_bild: "/media/bilder/audience2.jpg"
 date:   2019-01-03 20:51:47 -0500
 ---
 

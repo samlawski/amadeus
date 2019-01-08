@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Erster Artikel"
+titel_bild: 
 date:   2018-11-25 20:51:47 -0500
 ---
 
