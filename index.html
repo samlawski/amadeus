@@ -37,26 +37,15 @@ layout: home
     <div class="artikel">
       <h2>Blog-Artikel</h2>
 
-      <article>
-        <h4>Das ist ein erster Artikel</h4>
-        <small>23.04.2018</small>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua...</p>
-        <a href="/blog/artikel">Weiterlesen ...</a>
-      </article>
-
-      <article>
-        <h4>Ein weiterer Artikeltitel</h4>
-        <small>30.04.2018</small>
-        <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur...</p>
-        <a href="/blog/artikel">Weiterlesen ...</a>
-      </article>
-
-      <article>
-        <h4>Der 3. Artikel im Bunde mit einem langen Titel</h4>
-        <small>01.04.2018</small>
-        <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat...</p>
-        <a href="/blog/artikel">Weiterlesen ...</a>
-      </article>
+      {% for post in site.posts %}
+        <article>
+          <h4>{{ post.title }}</h4>
+          <small>{{ post.date | date: "%d.%m.%Y" }}</small>
+          <p>{{ post.content | strip_html | truncatewords: 40 }}</p>
+          <br>
+          <a href="{{ post.url }}">Weiterlesen ...</a>
+        </article>
+      {% endfor %}
 
       <a href="/blog">Zum Blog</a>
 
