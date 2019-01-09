@@ -4,9 +4,6 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
-- type: jekyll-posts
-  label: Blog Artikel
-  create: documents
 - type: document
   path: index.html
   label: Hauptseite (deutsch)
@@ -14,8 +11,15 @@ sections:
   path: en/index.html
   label: Hauptseite (englisch)
 - type: document
+  path: _data/termine.yml
+  label: Gebuchte Termine
+  match: "**/*"
+- type: document
   path: blog/index.html
   label: Blog Titelseite
+- type: jekyll-posts
+  label: Blog Artikel
+  create: documents
 - type: document
   path: datenschutz.md
   label: Datenschutz
