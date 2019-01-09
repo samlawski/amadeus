@@ -8,12 +8,23 @@ backend:
 media_folder: "./media" # Media files will be stored in the repo under ./media
 # public_folder: "/media" # The src attribute for uploaded media will begin with ./media
 collections:
+- name: "blog-artikel" # Used in routes, e.g., /admin/collections/blog
+  label: "Blog Artikel" # Used in the UI
+  folder: "_posts" # The path to the folder where the documents are stored
+  create: true # Allow users to create new documents in this collection
+  slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+  fields: # The fields for each document, usually in front matter
+    - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
+    - {label: "Titel", name: "titel", widget: "string"}
+    - {label: "Datum", name: "datum", widget: "datetime"}
+    - {label: "Titelbild (optional)", name: "titel_bild", widget: "image"}
+    - {label: "Body", name: "body", widget: "markdown"}
 - label: "Seiten"
   name: "seiten"
   files:
     - label: "Hauptseite"
       name: "home"
-      file: "de/index.html"
+      file: "_seiten/index.html"
       format: "yaml-frontmatter"
       extension: "html"
       fields:
@@ -27,12 +38,13 @@ collections:
             - {label: Audiodatei, name: file, widget: file}
     - label: "Fehlerseite (404)"
       name: "404"
-      file: "de/404.html"
+      file: "_seiten/404.html"
       fields:
         - {label: Erste Zeile, name: erste_zeile, widget: string}
         - {label: Zweite Zeile, name: zweite_zeile, widget: markdown}
     - label: "Impressum"
       name: "impressum"
-      file: "de/impressum.md"
+      file: "_seiten/impressum.md"
       fields:
         - {label: Title, name: title, widget: string}
+        - {label: "Body", name: "body", widget: "markdown"}
