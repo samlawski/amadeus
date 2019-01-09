@@ -22,33 +22,36 @@ fields:
   type: text
   hidden: false
   default: ''
+  description: Großer Text im Header
 - name: untertitel
   label: Untertitel
   type: text
   hidden: false
   default: ''
-- name: portrait
-  label: Portrait
-  type: text
-  hidden: false
-  default: ''
+  description: Etwas kleinerer Text unter dem Titel
+- type: file
+  label: Portrait-Bild
+  name: portrait
+  description: Bild Datei 500px breit
 - name: credo_link
-  label: Credo link
+  label: Credo Link-Text
   type: text
   hidden: false
   default: ''
+  description: Dieser Link öffnet das längere Credo
 - name: credo
   label: Credo
   type: textarea
   hidden: false
   default: ''
+  description: Kurzer Text zum Glaubensbekenntnis
 - name: uebermich_titel
-  label: Uebermich titel
+  label: 'Über Mich: Titel'
   type: text
   hidden: false
   default: ''
 - name: uebermich_text
-  label: Uebermich text
+  label: 'Über Mich: Text (bio)'
   type: textarea
   hidden: false
   default: ''
