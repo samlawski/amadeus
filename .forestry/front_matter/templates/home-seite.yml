@@ -40,7 +40,7 @@ fields:
   - type: datetime
     label: Datum
     name: datum
-    description: An welchem Termin hat die Predigt stattgefunden?
+    description: Termin der Predigt. Zeit ist nicht relevant
     config:
       date_format: DD.MM.YYYY
       display_utc: false
