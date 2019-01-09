@@ -1,7 +1,7 @@
 ---
 label: Termine
-hide_body: 
-is_partial: 
+hide_body: true
+is_partial: false
 fields:
 - name: Termine
   label: Termine
@@ -12,5 +12,8 @@ fields:
     type: datetime
     hidden: false
     default: ''
+    config:
+      date_format: DD.MM.YYYY
+    description: "(Zeit ist einstellbar aber irrelevant)"
   hidden: false
   default: ''
