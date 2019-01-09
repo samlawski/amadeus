@@ -1,0 +1,30 @@
+---
+label: Termine
+hide_body: true
+is_partial: false
+fields:
+- name: Termine
+  label: Termine
+  type: field_group_list
+  fields:
+  - name: datum
+    label: Datum
+    type: datetime
+    hidden: false
+    default: ''
+    config:
+      date_format: DD.MM.YYYY
+    description: "(Zeit ist einstellbar aber irrelevant)"
+  - type: text
+    hidden: true
+    config:
+      required: true
+    label: titel
+    name: titel
+    default: Termin
+  hidden: false
+  default: ''
+  description: Liste aller Termine. Am besten alte Termine per Hand entfernen bevor
+    neue hinzugefügt werden.
+  config:
+    labelField: titel
