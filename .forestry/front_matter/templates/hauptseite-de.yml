@@ -84,3 +84,5 @@ fields:
     name: datei
     label: Predigt Audio-Datei
     description: Sollte eine mp3 sein
+pages:
+- index.html
