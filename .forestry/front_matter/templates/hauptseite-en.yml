@@ -1,20 +1,24 @@
 ---
 label: Hauptseite EN
-hide_body: 
-is_partial: 
+hide_body: true
+is_partial: false
 fields:
 - name: layout
   label: Layout
   type: text
-  hidden: false
-  default: ''
-- name: titel
-  label: Titel
-  type: text
-  hidden: false
-  default: ''
+  hidden: true
+  default: home
+  config:
+    required: true
 - name: style_id
   label: Style id
+  type: text
+  hidden: true
+  default: home
+  config:
+    required: true
+- name: titel
+  label: Titel
   type: text
   hidden: false
   default: ''
