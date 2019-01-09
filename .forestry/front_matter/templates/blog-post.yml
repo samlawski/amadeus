@@ -1,25 +1,31 @@
 ---
 label: Blog Post
-hide_body: 
-is_partial: 
+hide_body: false
+is_partial: false
 fields:
 - name: layout
   label: Layout
   type: text
-  hidden: false
+  hidden: true
   default: ''
 - name: titel
-  label: Titel
+  label: Titel des Artikels
   type: text
   hidden: false
   default: ''
-- name: titel_bild
-  label: Titel bild
-  type: file
-  hidden: false
-  default: ''
+  config:
+    required: true
 - name: datum
   label: Datum
   type: datetime
   hidden: false
   default: ''
+  description: Ein Datum in der Zukunft lässt der Artikel noch nicht erscheinen
+  config:
+    date_format: DD.MM.YYYY
+- name: titel_bild
+  label: Titel bild
+  type: file
+  hidden: false
+  default: ''
+  description: optional
