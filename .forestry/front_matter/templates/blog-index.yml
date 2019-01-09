@@ -1,0 +1,25 @@
+---
+label: Blog Index
+hide_body: 
+is_partial: 
+fields:
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: ''
+- name: titel
+  label: Titel
+  type: text
+  hidden: false
+  default: ''
+- name: style_id
+  label: Style id
+  type: text
+  hidden: false
+  default: ''
+- name: weiterlesen
+  label: Weiterlesen
+  type: text
+  hidden: false
+  default: ''
