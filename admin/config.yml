@@ -10,11 +10,10 @@ media_folder: "./media" # Media files will be stored in the repo under ./media
 collections:
 - label: "Seiten"
   name: "seiten"
-  folder: "de"
   files:
     - label: "Hauptseite"
       name: "home"
-      file: "index.html"
+      file: "de/index.html"
       format: "yaml-frontmatter"
       extension: "html"
       fields:
@@ -28,12 +27,12 @@ collections:
             - {label: Audiodatei, name: file, widget: file}
     - label: "Fehlerseite (404)"
       name: "404"
-      file: "404.html"
+      file: "de/404.html"
       fields:
         - {label: Erste Zeile, name: erste_zeile, widget: string}
         - {label: Zweite Zeile, name: zweite_zeile, widget: markdown}
     - label: "Impressum"
       name: "impressum"
-      file: "impressum.md"
+      file: "de/impressum.md"
       fields:
         - {label: Title, name: title, widget: string}
