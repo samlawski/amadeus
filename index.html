@@ -1,17 +1,6 @@
 ---
 style_id: home
 layout: home
-title: 'Evangelisation, Predigten, Workshops'
-predigten:
-  - title: Predigt Titel Eins
-    file: /media/predigten/test-audio.mp3
-    date: 10.08.2019
-  - title: Predigt Titel Eins
-    file: /media/predigten/test-audio.mp3
-    date: 10.08.2019
-  - title: Predigt Titel Eins
-    file: /media/predigten/test-audio.mp3
-    date: 10.08.2019
 ---
 
 <header>
@@ -20,7 +9,7 @@ predigten:
       <img src="/media/bilder/portrait.jpg" alt="Amadeus Vadonis - Portrait">
     </div>
     <div class="text">
-      <h1>{{ page.title }}</h1>
+      <h1>Evangelisation, Predigten, Workshops</h1>
       <h2>Laden Sie mich gerne zu Evangelisationsgottesdiensten oder Veranstaltungen zum Predigen ein.</h2>
 
       <a data-target=".header__credo">Lesen Sie wofür ich stehe (Credo) &#x25BE;</a>
@@ -64,16 +53,32 @@ predigten:
     <div class="predigten">
       <h2>Predigten</h2>
 
-      {% for predigt in page.predigten %}
-        <div class="predigt">
-          <h4>{{ predigt.title }}</h4>
-          <small>{{ predigt.date }}</small>
-          <audio controls="controls" preload="none">
-            <source src="{{ predigt.file }}" type="audio/mpeg">
-            Bitte updaten Sie Ihren Web Browser, um die Predigt anhören zu können.
-          </audio>
-        </div>
-      {% endfor %}
+      <div class="predigt">
+        <h4>Predigt Titel Eins</h4>
+        <small>01.04.2018</small>
+        <audio controls="controls" preload="none">
+          <source src=/media/predigten/test-audio.mp3" type="audio/mpeg">
+          Bitte updaten Sie Ihren Web Browser, um die Predigt anhören zu können.
+        </audio>
+      </div>
+
+      <div class="predigt">
+        <h4>Predigt Titel Eins</h4>
+        <small>01.04.2018</small>
+        <audio controls="controls" preload="none">
+          <source src=/media/predigten/test-audio.mp3" type="audio/mpeg">
+          Bitte updaten Sie Ihren Web Browser, um die Predigt anhören zu können.
+        </audio>
+      </div>
+
+      <div class="predigt">
+        <h4>Predigt Titel Eins</h4>
+        <small>01.04.2018</small>
+        <audio controls="controls" preload="none">
+          <source src=/media/predigten/test-audio.mp3" type="audio/mpeg">
+          Bitte updaten Sie Ihren Web Browser, um die Predigt anhören zu können.
+        </audio>
+      </div>
 
     </div>
   </div>
