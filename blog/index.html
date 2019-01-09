@@ -1,10 +1,12 @@
 ---
 style_id: blog
 layout: page
+titel: Blog
+weiterlesen: "Weiterlesen ..."
 ---
 
 <header class="content">
-  <h1>Blog</h1>
+  <h1>{{ page.titel }}</h1>
 </header>
 
 <section>
@@ -21,7 +23,7 @@ layout: page
         <small>{{ post.date | date: "%d.%m.%Y" }}</small>
         {{ post.excerpt }}
         <br>
-        <a href="{{ post.url }}">Weiterlesen ...</a>
+        <a href="{{ post.url }}">{{ page.weiterlesen }}</a>
       </div>
     </article>
   {% endfor %}

@@ -9,9 +9,9 @@
       <label for="datum">Desired Event Date</label>
       <div class="termine">
         <h2>Already booked dates:</h2>
-        <div class="termine__list">
-          <strong data-date="2019-01-15">15.01.2019</strong>, <strong data-date="2019-01-20">20.01.2019</strong>, <strong data-date="2018-08-23">23.08.2018</strong>, <strong data-date="2018-08-28">28.08.2018</strong>, <strong data-date="2018-08-30">30.08.2018</strong>, <strong data-date="2018-10-01">01.10.2018</strong>
-        </div>
+        {% for termin in site.data.termine %}
+          <strong data-date='{{ termin.datum | date: "%Y-%m-%d" }}'>{{ termin.datum | date: "%d.%m.%Y" }}</strong>
+        {% endfor %}
       </div>
       <input type="text" name="datum" value="" placeholder="date">
       <label for="nachricht">Message*</label>
