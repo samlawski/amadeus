@@ -1,13 +1,15 @@
 ---
 layout: page
 style_id: 404
+erste_zeile: Diese Seite gibt es leider nicht.
+zweite_zeile: The requested page could not be found.
 ---
 
 <main>
   <h1>404</h1>
 
-  <p><strong>Seite nicht gefunden</strong></p>
-  <p>Unter dem eingegebenen Link konnten wir keine Seite finden.</p>
+  <p><strong>{{ page.erste_zeile }}</strong></p>
+  <p>{{ page.zweite_zeile }}</p>
   <ul>
     <li><a href="/">Zur Startseite</a></li>
     <li><a href="/blog">Zum Blog</a></li>
