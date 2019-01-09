@@ -7,7 +7,7 @@ fields:
   label: Layout
   type: text
   hidden: true
-  default: home
+  default: home_en
   config:
     required: true
 - name: style_id
