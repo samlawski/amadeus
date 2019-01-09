@@ -1,0 +1,16 @@
+---
+label: Termine
+hide_body: 
+is_partial: 
+fields:
+- name: Termine
+  label: Termine
+  type: field_group_list
+  fields:
+  - name: datum
+    label: Datum
+    type: datetime
+    hidden: false
+    default: ''
+  hidden: false
+  default: ''
