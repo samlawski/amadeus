@@ -10,27 +10,21 @@ sections:
 - type: document
   path: index.html
   label: Hauptseite (deutsch)
-  match: "**/*"
 - type: document
   path: en/index.html
   label: Hauptseite (englisch)
-  match: "**/*"
 - type: document
   path: blog/index.html
   label: Blog Titelseite
-  match: "**/*"
 - type: document
   path: datenschutz.md
   label: Datenschutz
-  match: "**/*"
 - type: document
   path: impressum.md
   label: Impressum
-  match: "**/*"
 - type: document
   path: 404.html
   label: 404 Fehlerseite
-  match: "**/*"
 upload_dir: media
 public_path: "/media"
 front_matter_path: ''
