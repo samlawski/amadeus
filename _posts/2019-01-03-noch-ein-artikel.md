@@ -1,7 +1,7 @@
 ---
 layout: post
 titel:  "Noch ein Artikel"
-titel_bild: "/media/bilder/stuehle.jpg"
+titel_bild: "/media/uploads/stuehle.jpg"
 datum:   2019-01-03 20:51:47 -0500
 ---
 

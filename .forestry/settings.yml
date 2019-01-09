@@ -2,7 +2,7 @@
 new_page_extension: md
 auto_deploy: false
 admin_path: ''
-webhook_url: 
+webhook_url:
 sections:
 - type: jekyll-posts
   label: Blog Artikel
@@ -25,8 +25,8 @@ sections:
 - type: document
   path: 404.html
   label: 404 Fehlerseite
-upload_dir: media
-public_path: "/media"
+upload_dir: media/uploads
+public_path: "/media/uploads"
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
