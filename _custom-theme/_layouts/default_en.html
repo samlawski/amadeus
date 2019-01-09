@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang='en'>
+  <head>
+    <title>{% if page.titel %}{{ page.titel | escape }} | {% endif %}{{ site.titel_englisch | escape }}</title>
+    <meta name="application-name" content="{{ site.titel_englisch }}"/>
+    <meta name="description" content="{% if page.seo_beschreibung %}{{ page.seo_beschreibung | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.beschreibung_englisch }}{% endif %}">
+
+    {% include head.html %}
+  </head>
+  <body data-page="{{ page.style_id }}">
+
+    {{ content }}
+
+    {% asset main.js %}
+    {% include third_party_scripts.html %}
+  </body>
+</html>

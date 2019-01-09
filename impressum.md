@@ -1,7 +1,7 @@
 ---
 layout: page
 style_id: impressum
-title: Impressum
+titel: Impressum
 permalink: /impressum/
 ---
 
