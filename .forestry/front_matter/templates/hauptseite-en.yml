@@ -1,0 +1,50 @@
+---
+label: Hauptseite EN
+hide_body: 
+is_partial: 
+fields:
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: ''
+- name: titel
+  label: Titel
+  type: text
+  hidden: false
+  default: ''
+- name: style_id
+  label: Style id
+  type: text
+  hidden: false
+  default: ''
+- name: untertitel
+  label: Untertitel
+  type: text
+  hidden: false
+  default: ''
+- name: portrait
+  label: Portrait
+  type: text
+  hidden: false
+  default: ''
+- name: credo_link
+  label: Credo link
+  type: text
+  hidden: false
+  default: ''
+- name: credo
+  label: Credo
+  type: textarea
+  hidden: false
+  default: ''
+- name: uebermich_titel
+  label: Uebermich titel
+  type: text
+  hidden: false
+  default: ''
+- name: uebermich_text
+  label: Uebermich text
+  type: textarea
+  hidden: false
+  default: ''
