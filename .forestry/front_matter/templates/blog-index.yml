@@ -1,25 +1,31 @@
 ---
 label: Blog Index
-hide_body: 
-is_partial: 
+hide_body: true
+is_partial: false
 fields:
 - name: layout
   label: Layout
   type: text
-  hidden: false
+  hidden: true
   default: ''
-- name: titel
-  label: Titel
-  type: text
-  hidden: false
-  default: ''
+  config:
+    required: true
 - name: style_id
   label: Style id
   type: text
-  hidden: false
+  hidden: true
   default: ''
-- name: weiterlesen
-  label: Weiterlesen
+  config:
+    required: true
+- name: titel
+  label: Seiten-Titel
   type: text
   hidden: false
   default: ''
+  description: Sichtbar ganz oben
+- name: weiterlesen
+  label: Weiterlesen Link
+  type: text
+  hidden: false
+  default: ''
+  description: Text Link zum lesen des ganzen Artikels
