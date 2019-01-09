@@ -70,8 +70,8 @@ predigten:
 
       {% for post in site.posts %}
         <article>
-          <h4>{{ post.titel }}</h4>
-          <small>{{ post.datum | date: "%d.%m.%Y" }}</small>
+          <h4>{{ post.title }}</h4>
+          <small>{{ post.date | date: "%d.%m.%Y" }}</small>
           <p>{{ post.content | strip_html | truncatewords: 40 }}</p>
           <br>
           <a href="{{ post.url }}">Weiterlesen ...</a>

@@ -1,8 +1,8 @@
 ---
 layout: post
-titel: Ein weiterer Artikel
+title: Ein weiterer Artikel
 titel_bild: "/media/uploads/audience2.jpg"
-datum: 2019-01-06 01:51:47 +0000
+date: 2019-01-06 01:51:47 +0000
 
 ---
 Donec **nec** purus a mi mollis facilisis. Curabitur nec metus congue, tincidunt odio ut, semper justo. Nullam lacinia leo sit amet ex dignissim, ac molestie lectus rutrum. Maecenas dapibus nulla sit amet odio lobortis tempor. Maecenas sodales porta ex ac placerat. Aliquam et ex et metus rutrum tempus sed sit amet nulla. Integer eros quam, sagittis at fringilla at, aliquam ac arcu.

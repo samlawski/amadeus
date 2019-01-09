@@ -8,14 +8,14 @@ fields:
   type: text
   hidden: true
   default: ''
-- name: titel
+- name: title
   label: Titel des Artikels
   type: text
   hidden: false
   default: ''
   config:
     required: true
-- name: datum
+- name: date
   label: Datum
   type: datetime
   hidden: false

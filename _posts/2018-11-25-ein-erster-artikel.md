@@ -1,8 +1,8 @@
 ---
 layout: post
-titel:  "Erster Artikel"
+title:  "Erster Artikel"
 titel_bild:
-datum:   2018-11-25 20:51:47 -0500
+date:   2018-11-25 20:51:47 -0500
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ut dictum mi. Aenean vitae mi in tellus auctor suscipit. Nam condimentum, purus sit amet sollicitudin faucibus, turpis metus feugiat felis, vel hendrerit mauris urna nec ligula. Proin pulvinar sem a mi tincidunt, ac mollis dui bibendum. Vivamus quis posuere nunc. Etiam egestas blandit magna a placerat. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum erat libero, interdum eu condimentum ut, viverra eget purus. Curabitur aliquam magna sit amet lorem faucibus pellentesque. Vestibulum sit amet nulla sit amet justo tempus auctor. Praesent ac accumsan metus. Donec finibus, nisi eu gravida vulputate, libero nisi porttitor sapien, sed lacinia sapien est ut massa.

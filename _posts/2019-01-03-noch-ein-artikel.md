@@ -1,8 +1,8 @@
 ---
 layout: post
-titel:  "Noch ein Artikel"
+title:  "Noch ein Artikel"
 titel_bild: "/media/uploads/stuehle.jpg"
-datum:   2019-01-03 20:51:47 -0500
+date:   2019-01-03 20:51:47 -0500
 ---
 
 Praesent luctus nunc neque, ac auctor elit mattis sed. Curabitur dapibus sollicitudin felis. Aliquam erat volutpat. Nunc sit amet dolor interdum urna consequat mollis. Duis luctus justo enim. Nunc laoreet turpis velit, facilisis dapibus eros sagittis et. Nam sed ante lorem. Maecenas laoreet lobortis augue, eget dignissim leo facilisis efficitur. Sed euismod lacus ut dolor efficitur, sit amet fermentum lectus tincidunt. Ut interdum dui turpis, vel blandit ex euismod convallis. Aenean pulvinar feugiat justo ac aliquet. Maecenas scelerisque efficitur molestie. In elit odio, faucibus vitae metus condimentum, lacinia feugiat enim.
