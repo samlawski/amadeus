@@ -29,3 +29,5 @@ fields:
   hidden: false
   default: ''
   description: Text Link zum lesen des ganzen Artikels
+pages:
+- blog/index.html
