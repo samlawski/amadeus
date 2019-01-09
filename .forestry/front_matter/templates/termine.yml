@@ -28,3 +28,5 @@ fields:
     neue hinzugefügt werden.
   config:
     labelField: titel
+pages:
+- _data/termine.yml
