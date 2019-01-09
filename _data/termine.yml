@@ -1,4 +1,8 @@
-- datum: 2019-01-15
-- datum: 2019-01-30
-- datum: 2019-02-01
-- datum: 2019-02-02
+- titel: Termin
+  datum: 2019-01-15
+- titel: Termin
+  datum: 2019-01-30
+- titel: Termin
+  datum: 2019-02-01
+- titel: Termin
+  datum: 2019-02-02
