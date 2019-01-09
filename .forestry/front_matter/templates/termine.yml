@@ -15,5 +15,16 @@ fields:
     config:
       date_format: DD.MM.YYYY
     description: "(Zeit ist einstellbar aber irrelevant)"
+  - type: text
+    hidden: true
+    config:
+      required: true
+    label: titel
+    name: titel
+    default: Termin
   hidden: false
   default: ''
+  description: Liste aller Termine. Am besten alte Termine per Hand entfernen bevor
+    neue hinzugefügt werden.
+  config:
+    labelField: titel
