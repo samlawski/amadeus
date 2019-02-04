@@ -2,9 +2,9 @@
 layout: page
 style_id: impressum
 titel: Impressum
-permalink: /impressum/
----
+permalink: "/impressum/"
 
+---
 # Impressum
 
 Inhaber: Amadeus Vadonis
