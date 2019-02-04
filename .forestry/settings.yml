@@ -13,14 +13,16 @@ sections:
 - type: document
   path: _data/termine.yml
   label: Gebuchte Termine
-- type: document
-  path: blog/index.html
-  label: Blog Titelseite
 - type: jekyll-posts
   label: Blog Artikel
   create: documents
   templates:
   - blog-post
+- type: heading
+  label: Unterseiten
+- type: document
+  path: blog/index.html
+  label: Blog Titelseite
 - type: document
   path: datenschutz.md
   label: Datenschutz
