@@ -1,25 +1,27 @@
 ---
 label: '404'
-hide_body: 
-is_partial: 
+hide_body: true
+is_partial: false
 fields:
 - name: layout
   label: Layout
   type: text
-  hidden: false
+  hidden: true
   default: ''
 - name: style_id
   label: Style id
   type: text
-  hidden: false
+  hidden: true
   default: ''
 - name: erste_zeile
   label: Erste zeile
   type: text
   hidden: false
   default: ''
+  description: Erste Zeile der Fehler-Seite
 - name: zweite_zeile
   label: Zweite zeile
   type: text
   hidden: false
   default: ''
+  description: Zweite Zeile der Fehler-Seite
