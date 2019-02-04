@@ -25,3 +25,5 @@ fields:
   hidden: false
   default: ''
   description: Zweite Zeile der Fehler-Seite
+pages:
+- 404.html
