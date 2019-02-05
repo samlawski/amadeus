@@ -7,6 +7,14 @@ fields:
   label: Termine
   type: field_group_list
   fields:
+  - type: text
+    hidden: false
+    config:
+      required: false
+    label: titel
+    name: titel
+    default: Termin
+    description: Erscheint als Termin-Name in der Liste zur eigenen Orientierung.
   - name: datum
     label: Datum
     type: datetime
@@ -14,14 +22,7 @@ fields:
     default: ''
     config:
       date_format: DD.MM.YYYY
-    description: "(Zeit ist einstellbar aber irrelevant)"
-  - type: text
-    hidden: true
-    config:
-      required: true
-    label: titel
-    name: titel
-    default: Termin
+    description: "(Uhrzeit ist einstellbar aber irrelevant)"
   hidden: false
   default: ''
   description: Liste aller Termine. Am besten alte Termine per Hand entfernen bevor
