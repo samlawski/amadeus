@@ -1,9 +1,3 @@
 ---
-- titel: Eigener Termin
-  datum: 2019-01-15 00:00:00 +0000
-- titel: Evangelisationsevent Bremen
-  datum: 2019-01-30 00:00:00 +0000
-- titel: EFG Berlin Vortrag
-  datum: 2019-02-01 00:00:00 +0000
-- titel: Termin 1
-  datum: 2019-02-02 00:00:00 +0000
+- titel: 'EFG Eisenhüttenstadt: Gästegottesdienst'
+  datum: 2019-03-31 00:00:00 +0100
