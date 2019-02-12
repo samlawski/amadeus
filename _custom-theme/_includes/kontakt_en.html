@@ -9,9 +9,20 @@
       <label for="datum">Desired Event Date</label>
       <div class="termine">
         <h2>Already booked dates:</h2>
-        {% for termin in site.data.termine %}
-          <strong data-date='{{ termin.datum | date: "%Y-%m-%d" }}'>{{ termin.datum | date: "%d.%m.%Y" }}</strong>
-        {% endfor %}
+        <div class="termine__list">
+          {% assign timestamp_now = "now" | date: "%s" %}
+          {% assign termine = site.data.termine | sort: "datum" %}
+
+          {% for termin in termine limit: 6 %}
+            {% assign timestamp_termin = termin.datum | date: "%s" %}
+
+            {% if timestamp_termin >= timestamp_now %}
+              <strong data-date='{{ termin.datum | date: "%Y-%m-%d" }}'>
+                {{ termin.datum | date: "%d.%m.%Y" }}{% if forloop.last %}{% else %}, {% endif %}
+              </strong>
+            {% endif %}
+          {% endfor %}
+        </div>
       </div>
       <input type="text" name="datum" value="" placeholder="date">
       <label for="nachricht">Message*</label>

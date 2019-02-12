@@ -19,18 +19,11 @@ $('.hamburger').click(function(){
 })
 
 // Form
-// Validate Termin
-var bookedDates = Array.from(
-  $('.termine__list').find('strong').map(function(i,element){
-    return $(element).data('date')
-  })
-)
-// TODO: Change this in the english version:
 var picker = new Pikaday({
   field: $('[name="datum"]')[0],
   format: 'DD.MM.YYYY',
   disableDayFn: function(date){
-    return bookedDates.indexOf(moment(date).format('YYYY-MM-DD')) >= 0
+    return site.termine.indexOf(moment(date).format('YYYY-MM-DD')) >= 0
   },
   i18n: {
     previousMonth : 'Vorheriger Monat',

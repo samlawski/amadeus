@@ -1,0 +1,5 @@
+<script>
+  var site = {
+    termine: [{% for termin in site.data.termine %}'{{ termin.datum | date: "%Y-%m-%d" }}'{% if forloop.last %}{% else %}, {% endif %}{% endfor %}]
+  }
+</script>

@@ -10,8 +10,17 @@
       <div class="termine">
         <h2>Bereits gebucht in naher Zukunft:</h2>
         <div class="termine__list">
-          {% for termin in site.data.termine %}
-            <strong data-date='{{ termin.datum | date: "%Y-%m-%d" }}'>{{ termin.datum | date: "%d.%m.%Y" }}</strong>
+          {% assign timestamp_now = "now" | date: "%s" %}
+          {% assign termine = site.data.termine | sort: "datum" %}
+
+          {% for termin in termine limit: 6 %}
+            {% assign timestamp_termin = termin.datum | date: "%s" %}
+
+            {% if timestamp_termin >= timestamp_now %}
+              <strong data-date='{{ termin.datum | date: "%Y-%m-%d" }}'>
+                {{ termin.datum | date: "%d.%m.%Y" }}{% if forloop.last %}{% else %}, {% endif %}
+              </strong>
+            {% endif %}
           {% endfor %}
         </div>
       </div>
