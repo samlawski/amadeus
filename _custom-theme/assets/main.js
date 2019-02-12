@@ -19,19 +19,37 @@ $('.hamburger').click(function(){
 })
 
 // Form
+var siteLang = $('html').attr('lang')
+var dateI18n = {
+  de: {
+    i18n: {
+      previousMonth : 'Vorheriger Monat',
+      nextMonth     : 'Nächster Monat',
+      months        : ['Januar','Februar','März','April','Mai','Juni','Juli','August','September','Oktober','November','Dezember'],
+      weekdays      : ['Sonntag','Montag','Dienstag','Mittwoch','Donnerstag','Freitag','Samstag'],
+      weekdaysShort : ['So','Mo','Di','Mi','Do','Fr','Sa']
+    },
+    format: 'DD.MM.YYYY'
+  },
+  en: {
+    i18n: {
+      previousMonth : 'previous month',
+      nextMonth     : 'next month',
+      months        : ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Okt','Nov','Dec'],
+      weekdays      : ['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'],
+      weekdaysShort : ['So','Mo','Tu','We','Th','Fr','Sa']
+    },
+    format: 'DD.MM.YYYY'
+  }
+}
+
 var picker = new Pikaday({
   field: $('[name="datum"]')[0],
-  format: 'DD.MM.YYYY',
+  format: dateI18n[siteLang].format,
   disableDayFn: function(date){
     return site.termine.indexOf(moment(date).format('YYYY-MM-DD')) >= 0
   },
-  i18n: {
-    previousMonth : 'Vorheriger Monat',
-    nextMonth     : 'Nächster Monat',
-    months        : ['Januar','Februar','März','April','Mai','Juni','Juli','August','September','Oktober','November','Dezember'],
-    weekdays      : ['Sonntag','Montag','Dienstag','Mittwoch','Donnerstag','Freitag','Samstag'],
-    weekdaysShort : ['So','Mo','Di','Mi','Do','Fr','Sa']
-  },
+  i18n: dateI18n[siteLang].i18n,
   firstDay: 1
 });
 
