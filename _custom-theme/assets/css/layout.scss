@@ -159,6 +159,15 @@ body>nav {
   [type="date"] {
     margin-bottom: 0;
   }
+  [type="checkbox"] {
+    width: auto;
+    display: inline-block;
+    margin: 0;
+  }
+  label.gdpr_check {
+    display: block;
+    margin-bottom: 20px;
+  }
 
   .termine {
     color: rgba(213, 234, 232, 0.6);
