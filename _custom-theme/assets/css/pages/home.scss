@@ -9,6 +9,9 @@
 */
 
 [data-page="home"] {
+  /* GENERAL */
+  p {margin-top: 0.5rem}
+
   /* HEADER */
   header {
     &>.content {
