@@ -30,7 +30,7 @@ uebermich_text: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
       <h2>{{ page.untertitel }}</h2>
 
       <a data-target=".header__credo">{{ page.credo_link }} &#x25BE;</a>
-      <p class="header__credo">{{ page.credo }}</p>
+      <p class="header__credo">{{ page.credo | markdownify }}</p>
     </div>
   </div>
 </header>
