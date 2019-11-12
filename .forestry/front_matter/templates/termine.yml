@@ -1,7 +1,6 @@
 ---
 label: Termine
 hide_body: true
-is_partial: false
 fields:
 - name: Termine
   label: Termine

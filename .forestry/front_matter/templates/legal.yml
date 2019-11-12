@@ -1,7 +1,6 @@
 ---
 label: Legal
 hide_body: false
-is_partial: false
 fields:
 - name: layout
   label: Layout
@@ -29,5 +28,5 @@ fields:
   hidden: true
   default: ''
 pages:
-- impressum.md
 - datenschutz.md
+- impressum.md
