@@ -58,6 +58,10 @@ fields:
   type: textarea
   hidden: false
   default: ''
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
 - type: text
   name: blog_titel
   label: 'Blog: Titel'
