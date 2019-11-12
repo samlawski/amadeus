@@ -44,10 +44,6 @@ fields:
   hidden: false
   default: ''
   description: Kurzer Text zum Glaubensbekenntnis
-  config:
-    wysiwyg: true
-    schema:
-      format: markdown
 - name: uebermich_titel
   label: 'Über Mich: Titel'
   type: text
