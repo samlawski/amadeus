@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Worum geht es?
-titel_bild: "/media/micro.jpeg"
-date: 2019-09-03 02:51:47 +0200
+titel_bild: "/media/stuehle.jpg"
+date: 2019-09-03T00:51:47.000+00:00
 
 ---
 Donec **nec** purus a mi mollis facilisis. Curabitur nec metus congue, tincidunt odio ut, semper justo. Nullam lacinia leo sit amet ex dignissim, ac molestie lectus rutrum. Maecenas dapibus nulla sit amet odio lobortis tempor. Maecenas sodales porta ex ac placerat. Aliquam et ex et metus rutrum tempus sed sit amet nulla. Integer eros quam, sagittis at fringilla at, aliquam ac arcu.
