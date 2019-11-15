@@ -4,7 +4,12 @@ style_id: post
 ---
 
 <header class="content">
-  <img src="{{ page.titel_bild }}" alt="">
+  {% assign titel_bild_length = page.titel_bild | size %}
+  {% if titel_bild_length > 0 %}
+    <img src="{{ page.titel_bild }}" alt="">
+  {% else %}
+    <div class="post__spacer"></div>
+  {% endif %}
   <h1>{{ page.title }}</h1>
   <small>{{ page.date | date: "%d.%m.%Y" }}</small>
 </header>

@@ -12,7 +12,8 @@ weiterlesen: Weiterlesen ...
 <section>
   {% for post in paginator.posts %}
     <article>
-      {% if post.titel_bild %}
+      {% assign titel_bild_length = post.titel_bild | size %}
+      {% if titel_bild_length > 0 %}
         <a class="blog__headimg" href="{{ post.url }}" style="background-image: url({{ post.titel_bild }})"></a>
       {% endif %}
 
