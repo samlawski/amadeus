@@ -15,4 +15,4 @@ Im Alter von 15 Jahren habe ich mich zu Jesus bekehrt. Damals erkannte ich erneu
 
 Zuerst wirkte ich in einer englischsprachigen Gemeindegründungsarbeit mit, bevor Sofia und ich mit Gottes Hilfe eine deutschsprachige Gemeinde im Berliner Südwesten aufbauten. Diese leitete ich bis 2016 als Pastor. Zum Ende dieser Zeit sehnte ich mich immer mehr danach, zu meiner Ursprungsberufung zurückzukehren – Evangelist zu sein.
 
-Ich freue mich auf die neuen Herausforderungen. Besonders darauf, unseren Herrn zu verkündigen. Meine Aufgabe ist die eines Dieners der Gemeinden, auf dass viele Menschen Jesus als ihren Herrn und Erlöser annehmen, und ihm treu nachfolgen.
+Ich freue mich auf diese Herausforderung, unseren Herrn als den Retter und Richter zu verkündigen. Ohne Jesus kann ich nichts, aber mit Ihm sind alle Dinge möglich. Meine Aufgabe ist die eines Dieners der Gemeinden, auf dass viele Menschen Jesus als ihren Herrn und Erlöser annehmen, und ihm treu nachfolgen.
