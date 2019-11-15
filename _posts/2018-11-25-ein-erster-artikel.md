@@ -2,7 +2,7 @@
 layout: post
 title: Wer ist Amadeus?
 titel_bild: "/media/20180617_Neuwied_Amadeus.jpg"
-date: 2019-11-15 02:51:47 +0100
+date: 2019-08-03 00:00:00 +0200
 
 ---
 **_Denn wir verkündigen nicht uns selbst, sondern Christus Jesus, dass er der Herr ist, uns selbst aber als eure Knechte um Jesu willen. 2. Korinther 4,5_**
