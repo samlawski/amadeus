@@ -17,23 +17,21 @@ Wir nehmen den Schutz Ihrer personenbezogenen Daten sehr ernst und möchten Sie 
 
 Für die Verarbeitung verantwortliche Person im Sinne der Datenschutz-Grundverordnung (DS-GVO) und des Bundesdatenschutzgesetzes (BDSG):
 
-
 Inhaber: Amadeus Vadonis
 
-Musterstr. 67
+Heesestr. 11
 
-12345 Berlin
+12169 Berlin
 
-Telefon: 030 / 1234 9876
+Telefon: 030 / 89725166
 
-
-E-Mail: muster@email.com
+E-Mail: buero @ amadeusvadonis.de
 
 **2) Begriffsbestimmungen**
 
 **Personenbezogene Daten**
 
-Personenbezogene Daten sind alle Informationen, die sich auf eine identifizierte oder identifizierbare natürliche Person (im Folgenden „betroffene Person&quot;) beziehen. Als identifizierbar wird eine natürliche Person angesehen, die direkt oder indirekt, insbesondere mittels Zuordnung zu einer Kennung wie einem Namen, zu einer Kennnummer, zu Standortdaten, zu einer Online-Kennung oder zu einem oder mehreren besonderen Merkmalen identifiziert werden kann, die Ausdruck der physischen, physiologischen, genetischen, psychischen, wirtschaftlichen, kulturellen oder sozialen Identität dieser natürlichen Person sind, identifiziert werden kann.
+Personenbezogene Daten sind alle Informationen, die sich auf eine identifizierte oder identifizierbare natürliche Person (im Folgenden „betroffene Person") beziehen. Als identifizierbar wird eine natürliche Person angesehen, die direkt oder indirekt, insbesondere mittels Zuordnung zu einer Kennung wie einem Namen, zu einer Kennnummer, zu Standortdaten, zu einer Online-Kennung oder zu einem oder mehreren besonderen Merkmalen identifiziert werden kann, die Ausdruck der physischen, physiologischen, genetischen, psychischen, wirtschaftlichen, kulturellen oder sozialen Identität dieser natürlichen Person sind, identifiziert werden kann.
 
 **Betroffene Person**
 
@@ -101,8 +99,8 @@ Beim Besuch unserer Website, also wenn Sie sich nicht registrieren oder uns ande
 
 **(2)** Diese Website nutzt folgende Arten von Cookies, deren Umfang und Funktionsweise im Folgenden erläutert werden:
 
-- Transiente Cookies
-- Persistente Cookies
+* Transiente Cookies
+* Persistente Cookies
 
 **(3)** Transiente Cookies werden automatisiert gelöscht, wenn Sie den Browser schließen. Dazu zählen insbesondere die Session-Cookies. Diese speichern eine sogenannte Session-ID, mit welcher sich verschiedene Anfragen Ihres Browsers der gemeinsamen Sitzung zuordnen lassen. Dadurch kann Ihr Rechner wiedererkannt werden, wenn Sie auf unsere Website zurückkehren. Die Session-Cookies werden gelöscht, wenn Sie sich ausloggen oder den Browser schließen.
 
@@ -124,13 +122,13 @@ Beim Besuch unserer Website, also wenn Sie sich nicht registrieren oder uns ande
 
 **Google Analytics**
 
-**(1)** Diese Website benutzt Google Analytics, einen Webanalysedienst der Google Inc. („Google&quot;). Google Analytics verwendet sog. „Cookies&quot;, Textdateien, die auf Ihrem Computer gespeichert werden und die eine Analyse der Benutzung der Website durch Sie ermöglichen (siehe oben Abschnitt 3., „Einsatz von Cookies&quot;). Die durch das Cookie erzeugten Informationen über Ihre Benutzung dieser Website werden in der Regel an einen Server von Google in den USA übertragen und dort gespeichert. Im Falle der Aktivierung der IP-Anonymisierung auf dieser Website, wird Ihre IP-Adresse von Google jedoch innerhalb von Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum zuvor gekürzt. Nur in Ausnahmefällen wird die volle IP-Adresse an einen Server von Google in den USA übertragen und dort gekürzt. Im Auftrag des Betreibers dieser Website wird Google diese Informationen benutzen, um Ihre Nutzung der Website auszuwerten, um Reports über die Website-Aktivitäten zusammenzustellen und um weitere mit der Website-Nutzung und der Internetnutzung verbundene Dienstleistungen gegenüber dem Website-Betreiber zu erbringen.
+**(1)** Diese Website benutzt Google Analytics, einen Webanalysedienst der Google Inc. („Google"). Google Analytics verwendet sog. „Cookies", Textdateien, die auf Ihrem Computer gespeichert werden und die eine Analyse der Benutzung der Website durch Sie ermöglichen (siehe oben Abschnitt 3., „Einsatz von Cookies"). Die durch das Cookie erzeugten Informationen über Ihre Benutzung dieser Website werden in der Regel an einen Server von Google in den USA übertragen und dort gespeichert. Im Falle der Aktivierung der IP-Anonymisierung auf dieser Website, wird Ihre IP-Adresse von Google jedoch innerhalb von Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum zuvor gekürzt. Nur in Ausnahmefällen wird die volle IP-Adresse an einen Server von Google in den USA übertragen und dort gekürzt. Im Auftrag des Betreibers dieser Website wird Google diese Informationen benutzen, um Ihre Nutzung der Website auszuwerten, um Reports über die Website-Aktivitäten zusammenzustellen und um weitere mit der Website-Nutzung und der Internetnutzung verbundene Dienstleistungen gegenüber dem Website-Betreiber zu erbringen.
 
 **(2)** Die im Rahmen von Google Analytics von Ihrem Browser übermittelte IP-Adresse wird nicht mit anderen Daten von Google zusammengeführt.
 
 **(3)** Sie können die Speicherung der Cookies durch eine entsprechende Einstellung Ihrer Browsersoftware verhindern; wir weisen Sie jedoch darauf hin, dass Sie in diesem Fall gegebenenfalls nicht sämtliche Funktionen dieser Website vollumfänglich werden nutzen können. Sie können darüber hinaus die Erfassung der durch das Cookie erzeugten und auf Ihre Nutzung der Website bezogenen Daten (inkl. Ihrer IP-Adresse) an Google sowie die Verarbeitung dieser Daten durch Google verhindern, indem Sie über den folgenden Link das Browser-Plug-in zur Deaktivierung von Analytics herunterladen und installieren: [http://tools.google.com/dlpage/gaoptout?hl=de](http://tools.google.com/dlpage/gaoptout?hl=de).
 
-**(4)** Diese Website verwendet Google Analytics mit der Erweiterung „\_anonymizeIp()&quot;. Dadurch werden IP-Adressen gekürzt weiterverarbeitet, eine Personenbeziehbarkeit kann damit ausgeschlossen werden. Soweit den über Sie erhobenen Daten ein Personenbezug zukommt, wird dieser also sofort ausgeschlossen und die personenbezogenen Daten damit umgehend gelöscht.
+**(4)** Diese Website verwendet Google Analytics mit der Erweiterung „_anonymizeIp()". Dadurch werden IP-Adressen gekürzt weiterverarbeitet, eine Personenbeziehbarkeit kann damit ausgeschlossen werden. Soweit den über Sie erhobenen Daten ein Personenbezug zukommt, wird dieser also sofort ausgeschlossen und die personenbezogenen Daten damit umgehend gelöscht.
 
 **(5)** Wir nutzen Google Analytics, um die Nutzung unserer Website analysieren und regelmäßig verbessern zu können. Über die gewonnenen Statistiken können wir unser Angebot verbessern und für Sie als Nutzer interessanter ausgestalten. Für die Ausnahmefälle, in denen personenbezogene Daten in die USA übertragen werden, hat sich Google dem EU-US Privacy Shield unterworfen, [https://www.privacyshield.gov/EU-US-Framework](https://www.privacyshield.gov/EU-US-Framework). Rechtsgrundlage für die Nutzung von Google Analytics ist Art. 6 Abs. 1 S. 1 lit. f DS-GVO.
 
@@ -166,7 +164,7 @@ Sie haben das Recht, die uns von Ihnen vorliegenden personenbezogenen Daten in e
 
 **Beschwerderecht bei einer Aufsichtsbehörde**
 
-Sie haben zudem das Recht, sich bei der zuständigen Datenschutz-Aufsichtsbehörde über die Verarbeitung Ihrer personenbezogenen Daten durch uns zu beschweren. Zuständig ist die Datenschutzbehörde des Bundeslandes, in dem wir unseren Sitz haben. Näheres hierzu finden Sie unter [https://www.bfdi.bund.de/DE/Infothek/Anschriften\_Links/anschriften\_links-node.html](https://www.bfdi.bund.de/DE/Infothek/Anschriften_Links/anschriften_links-node.html).
+Sie haben zudem das Recht, sich bei der zuständigen Datenschutz-Aufsichtsbehörde über die Verarbeitung Ihrer personenbezogenen Daten durch uns zu beschweren. Zuständig ist die Datenschutzbehörde des Bundeslandes, in dem wir unseren Sitz haben. Näheres hierzu finden Sie unter [https://www.bfdi.bund.de/DE/Infothek/Anschriften_Links/anschriften_links-node.html](https://www.bfdi.bund.de/DE/Infothek/Anschriften_Links/anschriften_links-node.html).
 
 Wir erlauben uns höflich darauf hinzuweisen, dass die Ausübung Ihrer Rechte im Einzelfall gegebenenfalls an das Vorliegen bestimmter Voraussetzungen geknüpft sein kann.
 
