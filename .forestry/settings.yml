@@ -33,7 +33,7 @@ sections:
   path: 404.html
   label: 404 Fehlerseite
 upload_dir: media/uploads
-public_path: "/media"
+public_path: "/media/uploads"
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
