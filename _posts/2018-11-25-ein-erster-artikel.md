@@ -5,7 +5,7 @@ titel_bild: ''
 date: 2019-08-02T22:00:00.000+00:00
 
 ---
-_Denn wir verkündigen nicht uns selbst, sondern Christus Jesus, dass er der Herr ist, uns selbst aber als eure Knechte um Jesu willen. 2. Korinther 4,5_
+**_Denn wir verkündigen nicht uns selbst, sondern Christus Jesus, dass er der Herr ist, uns selbst aber als eure Knechte um Jesu willen. 2. Korinther 4,5_**
 
 Mein Name ist Amadeus Vadonis. Geboren bin ich in Lettland, damals Teil der Sowjetunion. Durch Gottes Gnade durften wir als politische Flüchtlinge in die Bundesrepublik einreisen. Ich bin mit Sofia verheiratet, und wir haben vier wunderbare Töchter.
 
