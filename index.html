@@ -48,7 +48,7 @@ predigten:
       <h2>{{ page.untertitel }}</h2>
 
       <a data-target=".header__credo">{{ page.credo_link }} &#x25BE;</a>
-      <p class="header__credo">{{ page.credo }}</p>
+      <div class="header__credo">{{ page.credo | markdownify }}</div>
     </div>
   </div>
 </header>
@@ -60,7 +60,7 @@ predigten:
     <div class="text">
       <div class="box">
         <h2>{{ page.uebermich_titel }}</h2>
-        <p>{{ page.uebermich_text }}</p>
+        <div>{{ page.uebermich_text | markdownify }}</div>
       </div>
     </div>
   </div>
