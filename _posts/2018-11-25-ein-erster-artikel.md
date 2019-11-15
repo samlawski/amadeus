@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Wer ist Amadeus?
-titel_bild: "/media/20191013_Amadeus.jpg"
+titel_bild: ''
 date: 2019-08-03 00:00:00 +0200
 
 ---
