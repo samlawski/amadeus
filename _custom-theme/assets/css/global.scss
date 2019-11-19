@@ -5,6 +5,7 @@
 - Forms
 - Buttons
 - Helper classes
+- Reusable Elements
 
 */
 
@@ -107,4 +108,17 @@ button {
   max-width: 1200px;
   margin: auto;
   padding: 20px;
+}
+
+// Reusable Elements
+
+#kontakt_sent {
+  display: none;
+
+  &:target {
+    display: block;
+    color: lightgreen;
+    font-weight: 700;
+    margin-bottom: 15px;
+  }
 }
