@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Worum geht es?
-titel_bild: "/media/uploads/micro.jpeg"
+titel_bild: ''
 date: 2019-09-03T00:51:47.000+00:00
 
 ---
