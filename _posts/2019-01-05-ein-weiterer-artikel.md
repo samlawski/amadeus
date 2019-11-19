@@ -2,7 +2,7 @@
 layout: post
 title: Worum geht es?
 titel_bild: ''
-date: 2019-09-03T00:51:47.000+00:00
+date: 2019-11-19 02:51:47 +0100
 
 ---
 Wenn alles betrachtet und über alles nachgedacht ist, worum es bei dem Dienst eines Evangelisten geht, dann bleibt nur dies zu sagen, „Egal was wir tun, eigentlich geht es nur darum, dass Menschen in den Himmel kommen. Dazu braucht jeder Mensch Jesus. Es gibt keine Ausnahme.“
