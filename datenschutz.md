@@ -25,7 +25,7 @@ Heesestr. 11
 
 Telefon: 030 / 89725166
 
-E-Mail: buero @ amadeusvadonis.de
+E-Mail: kontakt @ amadeusvadonis.de
 
 **2) Begriffsbestimmungen**
 
