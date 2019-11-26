@@ -72,24 +72,5 @@ fields:
 - type: text
   name: predigten_titel
   label: 'Predigten: Titel'
-- type: field_group_list
-  name: predigten
-  label: Predigten
-  description: Liste der hörbaren Predigten
-  fields:
-  - type: text
-    name: titel
-    label: Titel
-    description: Kurzer Titel der Predigt
-  - type: datetime
-    name: datum
-    label: Datum der Predigt
-    config:
-      date_format: DD.MM.YYYY
-    description: "(Zeit ist einstellbar aber nicht relevant)"
-  - type: file
-    name: datei
-    label: Predigt Audio-Datei
-    description: Sollte eine mp3 sein
 pages:
 - index.html
