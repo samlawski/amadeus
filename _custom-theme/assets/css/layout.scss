@@ -172,16 +172,30 @@ body>nav {
   .termine {
     color: rgba(213, 234, 232, 0.6);
     font-size: 0.8rem;
-    margin-top: 10px;
+    margin-bottom: 20px;
     h2 {
       font-size: 0.8rem;
       margin-bottom: 0;
     }
   }
-  .termine__list {
-    text-wrap: nowrap;
-    max-width: 100%;
-    overflow: scroll;
+  .termine__item {
+    width: 49%;
+    display: inline-block;
+    @media(max-width: 800px) {
+      display: block;
+      width: 100%;
+    }
+  }
+}
+
+#kontakt_sent {
+  display: none;
+
+  &:target {
+    display: block;
+    color: lightgreen;
+    font-weight: 700;
+    margin-bottom: 15px;
   }
 }
 

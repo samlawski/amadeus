@@ -8,6 +8,7 @@
       <label for="email">Email*</label>
       <input type="email" name="email" value="" placeholder="max@mustermann.de" required>
       <label for="datum">Terminwunsch</label>
+      <input type="text" name="datum" value="" placeholder="Datum">
       <div class="termine">
         <h2>Bereits gebucht in naher Zukunft:</h2>
         <div class="termine__list">
@@ -18,14 +19,16 @@
             {% assign timestamp_termin = termin.datum | date: "%s" %}
 
             {% if timestamp_termin >= timestamp_now %}
-              <strong data-date='{{ termin.datum | date: "%Y-%m-%d" }}'>
-                {{ termin.datum | date: "%d.%m.%Y" }}{% if forloop.last %}{% else %}, {% endif %}
-              </strong>
+              <div class="termine__item">
+                <strong data-date='{{ termin.datum | date: "%Y-%m-%d" }}'>
+                  {{ termin.datum | date: "%d.%m.%Y" }}:
+                </strong>
+                &nbsp;{{ termin.titel }}
+              </div>
             {% endif %}
           {% endfor %}
         </div>
       </div>
-      <input type="text" name="datum" value="" placeholder="Datum">
       <label for="nachricht">Nachricht*</label>
       <textarea name="nachricht" placeholder="Nachricht ..." required></textarea>
       <label class="gdpr_check" for="gdpr_check">
