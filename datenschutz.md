@@ -1,10 +1,17 @@
 ---
+_options:
+  layout:
+    hidden: true
+  style_id:
+    hidden: true
+  permalink:
+    hidden: true
 layout: page
 style_id: impressum
 titel: Datenschutz
 permalink: "/datenschutz/"
-
 ---
+
 # Datenschutz
 
 Unsere Website können Sie grundsätzlich ohne die Angabe von personenbezogenen Daten nutzen. Im Einzelfall kann die Erhebung und Verarbeitung Ihrer personenbezogenen Daten jedoch erforderlich sein, um bestimmte Funktionen unserer Website nutzen zu können. Daneben erheben und verarbeiten wir zur Optimierung unserer Website und Dienste personenbezogene Daten, die wir nach den datenschutzrechtlichen Bestimmungen verarbeiten.
