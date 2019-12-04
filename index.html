@@ -1,32 +1,6 @@
 ---
 style_id: home
 layout: home
-titel: Menschen brauchen Jesus.
-untertitel: Evangelisation  |  Predigten  |  Workshops  |  Freizeiten  |  Mentoring
-portrait: "/media/uploads/portrait.jpg"
-credo_link: Lesen Sie wofür ich stehe (Credo)
-credo: |-
-  **Jesus gab seinen Nachfolgern den Auftrag, allen Menschen um sie herum mit allem Nachdruck zu bezeugen und zu verkündigen, dass Jesus der von Gott eingesetzte Richter über die Lebenden und die Toten ist. Die Menschen haben nur ein Leben auf dieser Erde. Danach wird jeder Mensch am Ende der Zeiten vor dem Richterstuhl Gottes gerichtet werden.**
-
-  Es gibt einen Himmel und eine Hölle. Es wird für jeden Menschen nur das Eine oder das Andere geben. Wie kann ein Mensch vor der Hölle gerettet werden? Wer Schuld auf sich geladen hat, und welcher Mensch hat das nicht, der wird verdammt werden und in alle Ewigkeit verloren sein. Das ist die schlechte Nachricht, die alle Menschen betrifft.
-
-  **Aber es gibt auch die gute Nachricht. Gott selbst hat für diese gesorgt. Es ist die gute Nachricht von Jesus Christus, das Evangelium. Von Jesus haben alle Propheten geredet. Durch Jesus, so bezeugen sie einmütig, bekommt jeder die Vergebung seiner Schuld – jeder, der an Jesus glaubt.**
-
-  Keiner muss verloren gehen. Keiner ist dazu verdammt, in der Hölle zu enden. Gott liebt die Menschen. Gott hat der Welt diese so große Liebe dadurch gezeigt, dass er seinen einzigen Sohn Jesus Christus für die Welt hergab, damit jeder Mensch, der an Ihn glaubt, das ewige Leben im Himmel besitzt und nicht verloren geht. Denn Gott sandte seinen Sohn nicht in die Welt, um sie zu verurteilen, sondern um sie durch Ihn zu retten.
-
-  **Es gibt keinen anderen Weg der Erlösung, der den Menschen gegeben ist. Jesus Christus ist der Weg, die Wahrheit und das Leben.**
-uebermich_titel: Über mich
-uebermich_text: |-
-  Ich bin 1970 in Talsi, Lettland, geboren. Ich bin verheiratet mit Sofia und wir haben vier Kinder.
-
-  An der Freien Theologischen Akademie (jetzt [Freie Theologische Hochschule](https://www.fthgiessen.de)) in Gießen und am [Dallas Theological Seminary](https://www.dts.edu) in den USA habe ich Theologie studiert. Das Studium habe ich 1997 mit einem Master of Sacred Theology abgeschlossen.
-
-  Für mehr als 17 Jahre war ich Gemeindegründer in Berlin. Schon in der Zeit war ich weltweit als Prediger und Evangelist unterwegs. Seit 2016 mache ich das hauptberuflich. Ich bin Mitglied bei der [Deutschen Evangelistenkonferenz](https://www.deutsche-evangelistenkonferenz.de).
-
-  Bitte kontaktieren Sie mich, wenn Sie wünschen, dass ich auch zu Ihnen komme. Ich werde es gern tun.
-blog_titel: Blog-Artikel
-blog_link: Zum Blog
-predigten_titel: Predigten
 predigten:
 - titel: Wienhausen Predigt
   datei: "/media/uploads/2018_03_25_wienhausen.mp3"
@@ -41,14 +15,25 @@ predigten:
 <header>
   <div class="content">
     <div class="portrait">
-      <img src="{{ page.portrait }}" alt="Amadeus Vadonis - Portrait">
+      <img class="editable" src="/media/uploads/portrait.jpg" alt="Amadeus Vadonis - Portrait">
     </div>
     <div class="text">
-      <h1>{{ page.titel }}</h1>
-      <h2>{{ page.untertitel }}</h2>
+      <h1 class="editable">Menschen brauchen Jesus.</h1>
+      <h2 class="editable">Evangelisation  |  Predigten  |  Workshops  |  Freizeiten  |  Mentoring</h2>
 
-      <a data-target=".header__credo">{{ page.credo_link }} &#x25BE;</a>
-      <div class="header__credo">{{ page.credo | markdownify }}</div>
+      <a data-target=".header__credo"><span class="editable">Lesen Sie wofür ich stehe (Credo)</span> &#x25BE;</a>
+      <div class="header__credo editable">
+**Jesus gab seinen Nachfolgern den Auftrag, allen Menschen um sie herum mit allem Nachdruck zu bezeugen und zu verkündigen, dass Jesus der von Gott eingesetzte Richter über die Lebenden und die Toten ist. Die Menschen haben nur ein Leben auf dieser Erde. Danach wird jeder Mensch am Ende der Zeiten vor dem Richterstuhl Gottes gerichtet werden.**
+
+  Es gibt einen Himmel und eine Hölle. Es wird für jeden Menschen nur das Eine oder das Andere geben. Wie kann ein Mensch vor der Hölle gerettet werden? Wer Schuld auf sich geladen hat, und welcher Mensch hat das nicht, der wird verdammt werden und in alle Ewigkeit verloren sein. Das ist die schlechte Nachricht, die alle Menschen betrifft.
+
+  **Aber es gibt auch die gute Nachricht. Gott selbst hat für diese gesorgt. Es ist die gute Nachricht von Jesus Christus, das Evangelium. Von Jesus haben alle Propheten geredet. Durch Jesus, so bezeugen sie einmütig, bekommt jeder die Vergebung seiner Schuld – jeder, der an Jesus glaubt.**
+
+  Keiner muss verloren gehen. Keiner ist dazu verdammt, in der Hölle zu enden. Gott liebt die Menschen. Gott hat der Welt diese so große Liebe dadurch gezeigt, dass er seinen einzigen Sohn Jesus Christus für die Welt hergab, damit jeder Mensch, der an Ihn glaubt, das ewige Leben im Himmel besitzt und nicht verloren geht. Denn Gott sandte seinen Sohn nicht in die Welt, um sie zu verurteilen, sondern um sie durch Ihn zu retten.
+
+  **Es gibt keinen anderen Weg der Erlösung, der den Menschen gegeben ist. Jesus Christus ist der Weg, die Wahrheit und das Leben.**
+
+      </div>
     </div>
   </div>
 </header>
@@ -59,8 +44,15 @@ predigten:
     <div class="spacer"></div>
     <div class="text">
       <div class="box">
-        <h2>{{ page.uebermich_titel }}</h2>
-        <div>{{ page.uebermich_text | markdownify }}</div>
+        <h2 class="editable">Über Mich</h2>
+        <div class="editable">Ich bin 1970 in Talsi, Lettland, geboren. Ich bin verheiratet mit Sofia und wir haben vier Kinder.
+
+  An der Freien Theologischen Akademie (jetzt [Freie Theologische Hochschule](https://www.fthgiessen.de)) in Gießen und am [Dallas Theological Seminary](https://www.dts.edu) in den USA habe ich Theologie studiert. Das Studium habe ich 1997 mit einem Master of Sacred Theology abgeschlossen.
+
+  Für mehr als 17 Jahre war ich Gemeindegründer in Berlin. Schon in der Zeit war ich weltweit als Prediger und Evangelist unterwegs. Seit 2016 mache ich das hauptberuflich. Ich bin Mitglied bei der [Deutschen Evangelistenkonferenz](https://www.deutsche-evangelistenkonferenz.de).
+
+  Bitte kontaktieren Sie mich, wenn Sie wünschen, dass ich auch zu Ihnen komme. Ich werde es gern tun.
+ </div>
       </div>
     </div>
   </div>
@@ -70,7 +62,7 @@ predigten:
 <section id="ressourcen">
   <div class="content">
     <div class="artikel">
-      <h2>{{ page.blog_titel }}</h2>
+      <h2 class="editable">Blog-Artikel</h2>
 
       {% for post in site.posts %}
         <article>
@@ -82,11 +74,11 @@ predigten:
         </article>
       {% endfor %}
 
-      <a href="/blog">{{ page.blog_link }}</a>
+      <a href="/blog"><span class="editable">Zum Blog</span></a>
 
     </div>
     <div class="predigten">
-      <h2>{{ page.predigten_titel }}</h2>
+      <h2 class="editable">Predigten</h2>
 
       {% for predigt in page.predigten %}
         <div class="predigt">
