@@ -1,9 +1,13 @@
 ---
+_options:
+  layout:
+    hidden: true
+  style_id:
+    hidden: true
 style_id: blog
 layout: page
 titel: Blog
 weiterlesen: Weiterlesen ...
-
 ---
 <header class="content">
   <h1>{{ page.titel }}</h1>
@@ -34,14 +38,14 @@ weiterlesen: Weiterlesen ...
   {% if paginator.previous_page %}
     <li class="previous">
       <a href="{{ paginator.previous_page_path }}">
-        <span aria-hidden="true">&larr;</span><span class="hidden-xs"> Neue Beiträge</span>
+        <span aria-hidden="true">&larr;</span><span class="hidden-xs editable"> Neue Beiträge</span>
       </a>
     </li>
   {% endif %}
   {% if paginator.next_page %}
     <li class="next">
       <a href="{{ paginator.next_page_path }}">
-        <span class="hidden-xs">Ältere Beiträge</span> <span aria-hidden="true">&rarr;</span>
+        <span class="hidden-xs editable">Ältere Beiträge</span> <span aria-hidden="true">&rarr;</span>
       </a>
     </li>
   {% endif %}
