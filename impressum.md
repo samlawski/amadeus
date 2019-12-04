@@ -1,10 +1,17 @@
 ---
+_options:
+  layout:
+    hidden: true
+  style_id:
+    hidden: true
+  permalink:
+    hidden: true
 layout: page
 style_id: impressum
 titel: Impressum
 permalink: "/impressum/"
-
 ---
+
 # Impressum
 
 Inhaber: Amadeus Vadonis
