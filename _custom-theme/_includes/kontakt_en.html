@@ -10,24 +10,31 @@
       <label for="datum">Desired Event Date</label>
       <input type="text" name="datum" value="" placeholder="date">
       <div class="termine">
-        <h2>Already booked dates:</h2>
-        <div class="termine__list">
-          {% assign timestamp_now = "now" | date: "%s" %}
-          {% assign termine = site.data.termine | sort: "datum" %}
+        {% assign timestamp_now = "now" | date: "%s" %}
+        {% assign termine = site.data.termine | sort: "datum" %}
+        {% assign future_termine = "" | split: ',' %}
 
-          {% for termin in termine limit: 6 %}
-            {% assign timestamp_termin = termin.datum | date: "%s" %}
+        {% for termin in termine %}
+          {% assign timestamp_termin = termin.datum | date: "%s" %}
+          {% if timestamp_termin >= timestamp_now %}
+            {% assign future_termine = future_termine | push: termin %}
+          {% endif %}
+        {% endfor %}
 
-            {% if timestamp_termin >= timestamp_now %}
+        {% assign future_termine_length = future_termine | size %}
+        {% if future_termine_length > 0 %}
+          <h2>Already booked dates:</h2>
+          <div class="termine__list">
+            {% for termin in future_termine limit: 8 %}
               <div class="termine__item">
                 <strong data-date='{{ termin.datum | date: "%Y-%m-%d" }}'>
                   {{ termin.datum | date: "%d.%m.%Y" }}:
                 </strong>
                 &nbsp;{{ termin.titel }}
               </div>
-            {% endif %}
-          {% endfor %}
-        </div>
+            {% endfor %}
+          </div>
+        {% endif %}
       </div>
       <label for="nachricht">Message*</label>
       <textarea name="nachricht" placeholder="Message ..." required></textarea>
