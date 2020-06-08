@@ -38,10 +38,6 @@
   datum: 2020-09-19 00:00:00 +0200
 - titel: EFG Waren (Müritz) Evangelisation
   datum: 2020-09-20 00:00:00 +0200
-- titel: EFG Zeesen 10 Uhr
-  datum: 2020-06-07 00:00:00 +0200
-- titel: 'ABGESAGT: EFG Waren (Müritz) 9:30 Uhr'
-  datum: 2020-05-24 00:00:00 +0200
 - titel: Direction Camp 2020
   datum: 2020-07-25 00:00:00 +0200
 - titel: Direction Camp 2020
@@ -64,3 +60,5 @@
   datum: 2021-05-13 00:00:00 +0200
 - titel: 'EFG Waren (Müritz) 9:30 Uhr'
   datum: 2020-11-29 00:00:00 +0100
+- titel: EFG Eisenhüttenstadt 10 Uhr
+  datum: 2020-08-16 00:00:00 +0200
