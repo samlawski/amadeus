@@ -18,6 +18,8 @@ Unsere Website können Sie grundsätzlich ohne die Angabe von personenbezogenen 
 
 Wir nehmen den Schutz Ihrer personenbezogenen Daten sehr ernst und möchten Sie daher nachfolgend über Ihre Rechte sowie Art und Umfang der jeweiligen Datenerhebung informieren.
 
+&nbsp;
+
 **1) Verantwortliche Person und Datenschutzbeauftragter**
 
 **Kontaktdaten des Verantwortlichen**
@@ -50,7 +52,7 @@ Die Verarbeitung ist jeder mit oder ohne Hilfe automatisierter Verfahren ausgef�
 
 **Pseudonymisierung**
 
-Pseudonymisierung ist die Verarbeitung personenbezogener Daten in einer Weise, dass die personenbezogenen Daten ohne Hinzuziehung zusätzlicher Informationen nicht mehr einer spezifischen betroffenen Person zugeordnet werden können, sofern diese zusätzlichen Informationen gesondert aufbewahrt werden und technischen und organisatorischen Maßnahmen unterliegen, die gewährleisten, dass die personenbezogenen Daten nicht einer identifizierten oder identifizierbaren natürlichen Person zugewiesen werden.
+Pseudonymisierung ist die Verarbeitung personenbezogener Daten in einer Weise, dass die personenbezogenen Daten ohne Hinzuziehung zusätzlicher Informationen nicht mehr einer spezifischen betroffenen Person zugeordnet werden können, sofern diese zusätzlichen Informationen gesondert aufbewahrt werden und technischen und organisatorischen Ma&szlig;nahmen unterliegen, die gewährleisten, dass die personenbezogenen Daten nicht einer identifizierten oder identifizierbaren natürlichen Person zugewiesen werden.
 
 **Verantwortlicher**
 
@@ -70,11 +72,11 @@ Eine Einwilligung der betroffenen Person ist jede freiwillig für den bestimmten
 
 **Verletzung des Schutzes personenbezogener Daten**
 
-Eine Verletzung des Schutzes personenbezogener Daten ist eine Verletzung der Sicherheit, die zur Vernichtung, zum Verlust oder zur Veränderung, ob unbeabsichtigt oder unrechtmäßig, oder zur unbefugten Offenlegung von beziehungsweise zum unbefugten Zugang zu personenbezogenen Daten führt, die übermittelt, gespeichert oder auf sonstige Weise verarbeitet wurden.
+Eine Verletzung des Schutzes personenbezogener Daten ist eine Verletzung der Sicherheit, die zur Vernichtung, zum Verlust oder zur Veränderung, ob unbeabsichtigt oder unrechtmä&szlig;ig, oder zur unbefugten Offenlegung von beziehungsweise zum unbefugten Zugang zu personenbezogenen Daten führt, die übermittelt, gespeichert oder auf sonstige Weise verarbeitet wurden.
 
 **Aufsichtsbehörde**
 
-Die Aufsichtsbehörde ist eine von einem Mitgliedstaat gemäß Art. 51 DS-GVO eingerichtete unabhängige staatliche Stelle, die für die Überwachung der Einhaltung der datenschutzrechtlichen Gesetze und Verordnungen zuständig ist.
+Die Aufsichtsbehörde ist eine von einem Mitgliedstaat gemä&szlig; Art. 51 DS-GVO eingerichtete unabhängige staatliche Stelle, die für die Überwachung der Einhaltung der datenschutzrechtlichen Gesetze und Verordnungen zuständig ist.
 
 **3) Information über die Verarbeitung personenbezogener Daten**
 
@@ -82,34 +84,34 @@ Wir verarbeiten Ihre personenbezogenen Daten durch verschiedene technische Mögl
 
 **Besuch unserer Website**
 
-Beim Besuch unserer Website, also wenn Sie sich nicht registrieren oder uns anderweitig Informationen übermitteln, erheben wir nur die personenbezogenen Daten, die Ihr Browser an unseren Server übermittelt. Wenn Sie unsere Website betrachten möchten, erheben wir die folgenden Daten, die für uns technisch erforderlich sind, um Ihnen unsere Website anzuzeigen und die Stabilität und Sicherheit zu gewährleisten (Rechtsgrundlage ist Art. 6 Abs. 1 S. 1 lit. f DS-GVO, § 15 Telemediengesetz (TMG)):
+Beim Besuch unserer Website, also wenn Sie sich nicht registrieren oder uns anderweitig Informationen übermitteln, erheben wir nur die personenbezogenen Daten, die Ihr Browser an unseren Server übermittelt. Wenn Sie unsere Website betrachten möchten, erheben wir die folgenden Daten, die für uns technisch erforderlich sind, um Ihnen unsere Website anzuzeigen und die Stabilität und Sicherheit zu gewährleisten (Rechtsgrundlage ist Art. 6 Abs. 1 S. 1 lit. f DS-GVO, &sect; 15 Telemediengesetz (TMG)):
 
-–        IP-Adresse und Service-Provider
+– IP-Adresse und Service-Provider
 
-–        Datum und Uhrzeit der Anfrage
+– Datum und Uhrzeit der Anfrage
 
-–        Inhalt der Anforderung (konkrete Seite)
+– Inhalt der Anforderung (konkrete Seite)
 
-–        Zugriffsstatus/HTTP-Statuscode
+– Zugriffsstatus/HTTP-Statuscode
 
-–        jeweils übertragene Datenmenge
+– jeweils übertragene Datenmenge
 
-–        Website, von der die Anforderung kommt
+– Website, von der die Anforderung kommt
 
-–        Browser inkl. Sprache und Softwareversion
+– Browser inkl. Sprache und Softwareversion
 
-–        Betriebssystem und dessen Oberfläche
+– Betriebssystem und dessen Oberfläche
 
 **Einsatz von Cookies**
 
-**(1)** Zusätzlich zu den zuvor genannten Daten werden bei Ihrer Nutzung unserer Website Cookies auf Ihrem Rechner gespeichert. Bei Cookies handelt es sich um kleine Textdateien, die auf Ihrer Festplatte dem von Ihnen verwendeten Browser zugeordnet gespeichert werden und durch welche der Stelle, die den Cookie setzt (hier durch uns), bestimmte Informationen zufließen. Cookies können keine Programme ausführen oder Viren auf Ihren Computer übertragen. Sie dienen dazu, das Internetangebot insgesamt nutzerfreundlicher und effektiver zu gestalten. Rechtsgrundlage für die Verwendung von Cookies ist Art. 6 Abs. 1 S. 1 lit. f DS-GVO.
+**(1)** Zusätzlich zu den zuvor genannten Daten werden bei Ihrer Nutzung unserer Website Cookies auf Ihrem Rechner gespeichert. Bei Cookies handelt es sich um kleine Textdateien, die auf Ihrer Festplatte dem von Ihnen verwendeten Browser zugeordnet gespeichert werden und durch welche der Stelle, die den Cookie setzt (hier durch uns), bestimmte Informationen zuflie&szlig;en. Cookies können keine Programme ausführen oder Viren auf Ihren Computer übertragen. Sie dienen dazu, das Internetangebot insgesamt nutzerfreundlicher und effektiver zu gestalten. Rechtsgrundlage für die Verwendung von Cookies ist Art. 6 Abs. 1 S. 1 lit. f DS-GVO.
 
 **(2)** Diese Website nutzt folgende Arten von Cookies, deren Umfang und Funktionsweise im Folgenden erläutert werden:
 
 * Transiente Cookies
 * Persistente Cookies
 
-**(3)** Transiente Cookies werden automatisiert gelöscht, wenn Sie den Browser schließen. Dazu zählen insbesondere die Session-Cookies. Diese speichern eine sogenannte Session-ID, mit welcher sich verschiedene Anfragen Ihres Browsers der gemeinsamen Sitzung zuordnen lassen. Dadurch kann Ihr Rechner wiedererkannt werden, wenn Sie auf unsere Website zurückkehren. Die Session-Cookies werden gelöscht, wenn Sie sich ausloggen oder den Browser schließen.
+**(3)** Transiente Cookies werden automatisiert gelöscht, wenn Sie den Browser schlie&szlig;en. Dazu zählen insbesondere die Session-Cookies. Diese speichern eine sogenannte Session-ID, mit welcher sich verschiedene Anfragen Ihres Browsers der gemeinsamen Sitzung zuordnen lassen. Dadurch kann Ihr Rechner wiedererkannt werden, wenn Sie auf unsere Website zurückkehren. Die Session-Cookies werden gelöscht, wenn Sie sich ausloggen oder den Browser schlie&szlig;en.
 
 **(4)** Persistente Cookies werden automatisiert nach einer vorgegebenen Dauer gelöscht, die sich je nach Cookie unterscheiden kann. Sie können die Cookies in den Sicherheitseinstellungen Ihres Browsers jederzeit löschen.
 
@@ -117,15 +119,15 @@ Beim Besuch unserer Website, also wenn Sie sich nicht registrieren oder uns ande
 
 **Nutzung des Kontaktformulars**
 
-(1)        Bei Ihrer Kontaktaufnahme mit uns über das Kontaktformular auf unserer Website werden zur Beantwortung Ihrer Anfrage die von Ihnen eingegebenen Daten (Ihre E-Mail-Adresse und regelmäßig Ihr Name, Ihre Telefonnummer und die weiteren von Ihnen angegebenen Daten) im Zeitpunkt der Absendung von uns gespeichert, um Ihr Anliegen zu bearbeiten.
+(1) Bei Ihrer Kontaktaufnahme mit uns über das Kontaktformular auf unserer Website werden zur Beantwortung Ihrer Anfrage die von Ihnen eingegebenen Daten (Ihre E-Mail-Adresse und regelmä&szlig;ig Ihr Name, Ihre Telefonnummer und die weiteren von Ihnen angegebenen Daten) im Zeitpunkt der Absendung von uns gespeichert, um Ihr Anliegen zu bearbeiten.
 
-(2)        Alternativ zum Kontaktformular können Sie auch über die auf unserer Website bereitgestellte E-Mail-Adresse, aufzufinden im Impressum, mit uns Kontakt aufnehmen.
+(2) Alternativ zum Kontaktformular können Sie auch über die auf unserer Website bereitgestellte E-Mail-Adresse, aufzufinden im Impressum, mit uns Kontakt aufnehmen.
 
-(3)        Der Verarbeitung Ihrer personenbezogenen Daten können Sie jederzeit durch das Senden einer E-Mail widersprechen oder den Widerspruch der Verarbeitung Ihrer personenbezogenen Daten gegenüber den in Abschnitt 1. aufgeführten Person(en) erklären. Treten Sie direkt per E-Mail mit uns in Kontakt, so können Sie der Verarbeitung Ihrer personenbezogenen Daten jederzeit auf denselben Wegen widersprechen.
+(3) Der Verarbeitung Ihrer personenbezogenen Daten können Sie jederzeit durch das Senden einer E-Mail widersprechen oder den Widerspruch der Verarbeitung Ihrer personenbezogenen Daten gegenüber den in Abschnitt 1. aufgeführten Person(en) erklären. Treten Sie direkt per E-Mail mit uns in Kontakt, so können Sie der Verarbeitung Ihrer personenbezogenen Daten jederzeit auf denselben Wegen widersprechen.
 
-(4)        Die in diesem Zusammenhang anfallenden Daten löschen wir, nachdem die Speicherung nicht mehr erforderlich ist, oder schränken die Verarbeitung ein, falls gesetzliche Aufbewahrungspflichten bestehen. Rechtsgrundlage ist Art. 6 Abs. 1 S. 1 lit. f DS-GVO.
+(4) Die in diesem Zusammenhang anfallenden Daten löschen wir, nachdem die Speicherung nicht mehr erforderlich ist, oder schränken die Verarbeitung ein, falls gesetzliche Aufbewahrungspflichten bestehen. Rechtsgrundlage ist Art. 6 Abs. 1 S. 1 lit. f DS-GVO.
 
-(5)        Zielt Ihre Kontaktaufnahme auf den Abschluss eines Vertrages ab, so ist zusätzliche Rechtsgrundlage für die Verarbeitung Ihrer personenbezogenen Daten Art. 6 Abs. 1 S. 1 lit. b DS-GVO.
+(5) Zielt Ihre Kontaktaufnahme auf den Abschluss eines Vertrages ab, so ist zusätzliche Rechtsgrundlage für die Verarbeitung Ihrer personenbezogenen Daten Art. 6 Abs. 1 S. 1 lit. b DS-GVO.
 
 **Google Analytics**
 
@@ -135,9 +137,9 @@ Beim Besuch unserer Website, also wenn Sie sich nicht registrieren oder uns ande
 
 **(3)** Sie können die Speicherung der Cookies durch eine entsprechende Einstellung Ihrer Browsersoftware verhindern; wir weisen Sie jedoch darauf hin, dass Sie in diesem Fall gegebenenfalls nicht sämtliche Funktionen dieser Website vollumfänglich werden nutzen können. Sie können darüber hinaus die Erfassung der durch das Cookie erzeugten und auf Ihre Nutzung der Website bezogenen Daten (inkl. Ihrer IP-Adresse) an Google sowie die Verarbeitung dieser Daten durch Google verhindern, indem Sie über den folgenden Link das Browser-Plug-in zur Deaktivierung von Analytics herunterladen und installieren: [http://tools.google.com/dlpage/gaoptout?hl=de](http://tools.google.com/dlpage/gaoptout?hl=de).
 
-**(4)** Diese Website verwendet Google Analytics mit der Erweiterung „_anonymizeIp()". Dadurch werden IP-Adressen gekürzt weiterverarbeitet, eine Personenbeziehbarkeit kann damit ausgeschlossen werden. Soweit den über Sie erhobenen Daten ein Personenbezug zukommt, wird dieser also sofort ausgeschlossen und die personenbezogenen Daten damit umgehend gelöscht.
+**(4)** Diese Website verwendet Google Analytics mit der Erweiterung „\_anonymizeIp()". Dadurch werden IP-Adressen gekürzt weiterverarbeitet, eine Personenbeziehbarkeit kann damit ausgeschlossen werden. Soweit den über Sie erhobenen Daten ein Personenbezug zukommt, wird dieser also sofort ausgeschlossen und die personenbezogenen Daten damit umgehend gelöscht.
 
-**(5)** Wir nutzen Google Analytics, um die Nutzung unserer Website analysieren und regelmäßig verbessern zu können. Über die gewonnenen Statistiken können wir unser Angebot verbessern und für Sie als Nutzer interessanter ausgestalten. Für die Ausnahmefälle, in denen personenbezogene Daten in die USA übertragen werden, hat sich Google dem EU-US Privacy Shield unterworfen, [https://www.privacyshield.gov/EU-US-Framework](https://www.privacyshield.gov/EU-US-Framework). Rechtsgrundlage für die Nutzung von Google Analytics ist Art. 6 Abs. 1 S. 1 lit. f DS-GVO.
+**(5)** Wir nutzen Google Analytics, um die Nutzung unserer Website analysieren und regelmä&szlig;ig verbessern zu können. Über die gewonnenen Statistiken können wir unser Angebot verbessern und für Sie als Nutzer interessanter ausgestalten. Für die Ausnahmefälle, in denen personenbezogene Daten in die USA übertragen werden, hat sich Google dem EU-US Privacy Shield unterworfen, [https://www.privacyshield.gov/EU-US-Framework](https://www.privacyshield.gov/EU-US-Framework). Rechtsgrundlage für die Nutzung von Google Analytics ist Art. 6 Abs. 1 S. 1 lit. f DS-GVO.
 
 **(6)** Informationen des Anbieters: Google Dublin, Google Ireland Ltd., Gordon House, Barrow Street, Dublin 4, Ireland, Fax: +353 (1) 436 1001. Nutzerbedingungen: [http://www.google.com/analytics/terms/de.html](http://www.google.com/analytics/terms/de.html), Übersicht zum Datenschutz: [http://www.google.com/intl/de/analytics/learn/privacy.html](http://www.google.com/intl/de/analytics/learn/privacy.html), sowie die Datenschutzerklärung: [http://www.google.de/intl/de/policies/privacy](http://www.google.de/intl/de/policies/privacy).
 
@@ -163,7 +165,7 @@ Sie können von uns eine Einschränkung der Verarbeitung Ihrer personenbezogenen
 
 **Recht auf Widerspruch gegen die Verarbeitung**
 
-_Sie können der Verarbeitung Ihrer personenbezogenen Daten jederzeit widersprechen. Dies gilt insbesondere, wenn die Rechtsgrundlage der Verarbeitung Art. 6 Abs. 1 S. 1 lit. f DS-GVO ist._
+*Sie können der Verarbeitung Ihrer personenbezogenen Daten jederzeit widersprechen. Dies gilt insbesondere, wenn die Rechtsgrundlage der Verarbeitung Art. 6 Abs. 1 S. 1 lit. f DS-GVO ist.*
 
 **Recht auf Datenübertragbarkeit**
 
@@ -171,10 +173,10 @@ Sie haben das Recht, die uns von Ihnen vorliegenden personenbezogenen Daten in e
 
 **Beschwerderecht bei einer Aufsichtsbehörde**
 
-Sie haben zudem das Recht, sich bei der zuständigen Datenschutz-Aufsichtsbehörde über die Verarbeitung Ihrer personenbezogenen Daten durch uns zu beschweren. Zuständig ist die Datenschutzbehörde des Bundeslandes, in dem wir unseren Sitz haben. Näheres hierzu finden Sie unter [https://www.bfdi.bund.de/DE/Infothek/Anschriften_Links/anschriften_links-node.html](https://www.bfdi.bund.de/DE/Infothek/Anschriften_Links/anschriften_links-node.html).
+Sie haben zudem das Recht, sich bei der zuständigen Datenschutz-Aufsichtsbehörde über die Verarbeitung Ihrer personenbezogenen Daten durch uns zu beschweren. Zuständig ist die Datenschutzbehörde des Bundeslandes, in dem wir unseren Sitz haben. Näheres hierzu finden Sie unter [https://www.bfdi.bund.de/DE/Infothek/Anschriften\_Links/anschriften\_links-node.html](https://www.bfdi.bund.de/DE/Infothek/Anschriften_Links/anschriften_links-node.html).
 
 Wir erlauben uns höflich darauf hinzuweisen, dass die Ausübung Ihrer Rechte im Einzelfall gegebenenfalls an das Vorliegen bestimmter Voraussetzungen geknüpft sein kann.
 
 **Gewährleistung der Datensicherheit und des Datenschutzes**
 
-Um den Schutz und die Sicherheit Ihrer personenbezogenen zu gewährleisten, führen wir eine Vielzahl von technischen und organisatorischen Sicherheitsmaßnahmen durch, deren Wirksamkeit wir regelmäßig überprüfen lassen.
+Um den Schutz und die Sicherheit Ihrer personenbezogenen zu gewährleisten, führen wir eine Vielzahl von technischen und organisatorischen Sicherheitsma&szlig;nahmen durch, deren Wirksamkeit wir regelmä&szlig;ig überprüfen lassen.
