@@ -1,11 +1,4 @@
-- titel: 'Abgesagt wg. Lockdown: Deutsche Evangelistenkonferenz'
-  datum: 2020-11-30 00:00:00 +0100
-- titel: 'Abgesagt wg. Lockdown: Deutsche Evangelistenkonferenz'
-  datum: 2020-12-01 00:00:00 +0100
-- titel: 'Abgesagt wg. Lockdown: Deutsche Evangelistenkonferenz'
-  datum: 2020-12-02 00:00:00 +0100
-- titel: 'Abgesagt wg. Lockdown: Deutsche Evangelistenkonferenz'
-  datum: 2020-12-03 00:00:00 +0100
+---
 - titel: 'Blaukreuz-Zentrum Schloss Zahren: Tag der Offenen Tür'
   datum: 2021-05-13 00:00:00 +0200
 - titel: 'EFG Waren (Müritz) 9:30 Uhr'
@@ -16,8 +9,8 @@
   datum: 2020-12-13 00:00:00 +0100
 - titel: 'EFG Waren (Müritz) 9:30 Uhr'
   datum: 2021-05-23 00:00:00 +0200
-- titel: 'Abgesagt wg. Lockdown: EFG Waren (Müritz)'
-  datum: 2020-11-29 00:00:00 +0100
+- titel: EFG Waren (Müritz)
+  datum: 2021-01-24 00:00:00 +0100
 - titel: Lettische ev.-luth. Kirche Münster (Westf.)
   datum: 2021-02-14 00:00:00 +0100
 - titel: Lettische ev.-luth. Kirche Münster (Westf.)
@@ -34,3 +27,4 @@
   datum: 2021-02-20 00:00:00 +0100
 - titel: Lettische ev.-luth. Kirche Münster (Westf.)
   datum: 2021-02-21 00:00:00 +0100
+---
