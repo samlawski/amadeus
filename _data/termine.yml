@@ -25,6 +25,8 @@
   datum: 2021-02-20 00:00:00 +0100
 - titel: Lettische ev.-luth. Kirche Münster (Westf.)
   datum: 2021-02-21 00:00:00 +0100
+- titel: EFG Falkensee 10 Uhr
+  datum: 2021-03-14 00:00:00 +0100
 - titel: 'EFG Waren (Müritz) 9:30 Uhr'
   datum: 2021-03-28 00:00:00 +0100
 - titel: 'Blaukreuz-Zentrum Schloss Zahren: Tag der Offenen Tür'
@@ -47,6 +49,4 @@
   datum: 2021-09-11 00:00:00 +0200
 - titel: Evangelisation Waren (Müritz)
   datum: 2021-09-12 00:00:00 +0200
-- titel: EFG Falkensee 10 Uhr
-  datum: 2021-03-14 00:00:00 +0100
 ---
