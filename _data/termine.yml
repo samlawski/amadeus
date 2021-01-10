@@ -1,10 +1,10 @@
 ---
-- titel: EFG Eisenhüttenstadt 10 Uhr
-  datum: 2021-01-10 00:00:00 +0100
 - titel: 'EFG Waren (Müritz) 9:30 Uhr'
   datum: 2021-01-24 00:00:00 +0100
 - titel: EFG Zeesen 10 Uhr
   datum: 2021-01-31 00:00:00 +0100
+- titel: Paulus-Gemeinde Mahlow 10 Uhr
+  datum: 2021-02-07 00:00:00 +0100
 - titel: Lettische ev.-luth. Kirche Münster (Westf.)
   datum: 2021-02-14 00:00:00 +0100
 - titel: Lettische ev.-luth. Kirche Münster (Westf.)
@@ -45,6 +45,4 @@
   datum: 2021-09-11 00:00:00 +0200
 - titel: Evangelisation Waren (Müritz)
   datum: 2021-09-12 00:00:00 +0200
-- titel: Paulus-Gemeinde Mahlow 10 Uhr
-  datum: 2021-02-07 00:00:00 +0100
 ---
