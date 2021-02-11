@@ -1,48 +1,24 @@
 ---
-- titel: EFG Eisenhüttenstadt 10 Uhr
-  datum: 2021-03-07 00:00:00 +0100
 - titel: >-
     Lettische ev.-luth. Kirche Münster (Westf.): aufgrund des Lockdowns nur
     digital
   datum: 2021-02-14 00:00:00 +0100
-- titel: >-
-    Aufgrund des Lockdowns verschoben: Lettische ev.-luth. Kirche Münster
-    (Westf.)
-  datum: 2021-02-15 00:00:00 +0100
-- titel: >-
-    Aufgrund des Lockdowns verschoben: Lettische ev.-luth. Kirche Münster
-    (Westf.)
-  datum: 2021-02-16 00:00:00 +0100
-- titel: >-
-    Aufgrund des Lockdowns verschoben: Lettische ev.-luth. Kirche Münster
-    (Westf.)
-  datum: 2021-02-17 00:00:00 +0100
-- titel: >-
-    Aufgrund des Lockdowns verschoben: Lettische ev.-luth. Kirche Münster
-    (Westf.)
-  datum: 2021-02-18 00:00:00 +0100
-- titel: >-
-    Aufgrund des Lockdowns verschoben: Lettische ev.-luth. Kirche Münster
-    (Westf.)
-  datum: 2021-02-19 00:00:00 +0100
-- titel: >-
-    Aufgrund des Lockdowns verschoben: Lettische ev.-luth. Kirche Münster
-    (Westf.)
-  datum: 2021-02-20 00:00:00 +0100
-- titel: >-
-    Aufgrund des Lockdowns verschoben: Lettische ev.-luth. Kirche Münster
-    (Westf.)
-  datum: 2021-02-21 00:00:00 +0100
+- titel: EFG Eisenhüttenstadt 10 Uhr
+  datum: 2021-03-07 00:00:00 +0100
 - titel: EFG Falkensee 10 Uhr
   datum: 2021-03-14 00:00:00 +0100
 - titel: 'EFG Waren (Müritz) 9:30 Uhr'
   datum: 2021-03-28 00:00:00 +0100
+- titel: EFG Zeesen 10 Uhr
+  datum: 2021-04-11 00:00:00 +0200
 - titel: 'EFG Waren (Müritz) 9:30 Uhr'
   datum: 2021-04-18 00:00:00 +0200
 - titel: 'Blaukreuz-Zentrum Schloss Zahren: Tag der Offenen Tür'
   datum: 2021-05-13 00:00:00 +0200
 - titel: 'EFG Waren (Müritz) 9:30 Uhr'
   datum: 2021-05-30 00:00:00 +0200
+- titel: EFG Zeesen 10 Uhr
+  datum: 2021-06-13 00:00:00 +0200
 - titel: Evangelisation Waren (Müritz)
   datum: 2021-09-05 00:00:00 +0200
 - titel: Evangelisation Waren (Müritz)
