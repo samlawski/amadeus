@@ -19,6 +19,14 @@
   datum: 2021-12-10 00:00:00 +0100
 - titel: EFG Zeesen 10 Uhr
   datum: 2021-12-12 00:00:00 +0100
+- titel: Evangelisation Waren (Müritz) 17 Uhr
+  datum: 2021-12-17 00:00:00 +0100
+- titel: EFG Waren (Müritz)
+  datum: 2022-01-09 00:00:00 +0100
+- titel: EFG Waren (Müritz) 9:30 Uhr
+  datum: 2022-01-23 00:00:00 +0100
+- titel: EFG Waren (Müritz) 9:30 Uhr
+  datum: 2022-02-27 00:00:00 +0100
 - titel: Evangelisation Mežgalciems, Lettland
   datum: '2022-04-10'
 - titel: Evangelisation Mežgalciems, Lettland
@@ -35,8 +43,6 @@
   datum: 2022-04-16 00:00:00 +0200
 - titel: Evangelisation Mežgalciems, Lettland
   datum: 2022-04-17 00:00:00 +0200
-- titel: Evangelisation Waren (Müritz) 17 Uhr
-  datum: 2021-12-17 00:00:00 +0100
 - titel: Blaukreuz-Zentrum Schloss Zahren
   datum: 2022-05-26 00:00:00 +0200
 - titel: Evangelisation Waren (Müritz)
