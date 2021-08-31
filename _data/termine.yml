@@ -1,8 +1,8 @@
 ---
-- titel: EFG Eisenhüttenstadt 10 Uhr
-  datum: 2021-08-29 00:00:00 +0200
 - titel: EFG Waren (Müritz) 9:30 Uhr
   datum: 2021-09-05 00:00:00 +0200
+- titel: EFG Zehdenick 10:30 Uhr
+  datum: '2021-09-12'
 - titel: EFG Waren (Müritz) 9:30 Uhr
   datum: 2021-09-19 00:00:00 +0200
 - titel: EFG Eisenhüttenstadt 10 Uhr
@@ -23,6 +23,8 @@
   datum: 2021-12-17 00:00:00 +0100
 - titel: Blaukreuz-Zentrum Schloss Zahren
   datum: 2022-05-26 00:00:00 +0200
+- titel: Evangelisation Mežgalciems, Lettland
+  datum: '2022-04-10'
 - titel: Evangelisation Waren (Müritz)
   datum: 2022-09-18 00:00:00 +0200
 - titel: Evangelisation Waren (Müritz)
