@@ -1,60 +1,60 @@
 ---
 - titel: EFG Eisenhüttenstadt 10 Uhr
-  datum: 2021-09-26 00:00:00 +0200
+  datetime: 2021-09-26 00:00:00 +0200
 - titel: EFG Waren (Müritz) 9:30 Uhr
-  datum: 2021-10-03 00:00:00 +0200
+  datetime: 2021-10-03 00:00:00 +0200
 - titel: Paulus-Gemeinde Mahlow 10 Uhr
-  datum: '2021-10-10'
+  datetime: 2021-10-10 00:00:00 +0200
 - titel: EFG Waren (Müritz) 9:30 Uhr
-  datum: 2021-10-24 00:00:00 +0200
+  datetime: 2021-10-24 00:00:00 +0200
 - titel: EFG Eisenhüttenstadt 10 Uhr
-  datum: 2021-11-28 00:00:00 +0100
+  datetime: 2021-11-28 00:00:00 +0100
 - titel: Evangelisation Waren (Müritz) 17 Uhr
-  datum: 2021-12-03 00:00:00 +0100
+  datetime: 2021-12-03 00:00:00 +0100
 - titel: Evangelisation Waren (Müritz) 17 Uhr
-  datum: 2021-12-10 00:00:00 +0100
+  datetime: 2021-12-10 00:00:00 +0100
 - titel: EFG Zeesen 10 Uhr
-  datum: 2021-12-12 00:00:00 +0100
+  datetime: 2021-12-12 00:00:00 +0100
 - titel: Evangelisation Waren (Müritz) 17 Uhr
-  datum: 2021-12-17 00:00:00 +0100
+  datetime: 2021-12-17 00:00:00 +0100
 - titel: EFG Waren (Müritz) 9:30 Uhr
-  datum: 2022-01-09 00:00:00 +0100
+  datetime: 2022-01-09 00:00:00 +0100
 - titel: EFG Waren (Müritz) 9:30 Uhr
-  datum: 2022-01-23 00:00:00 +0100
+  datetime: 2022-01-23 00:00:00 +0100
 - titel: EFG Waren (Müritz) 9:30 Uhr
-  datum: 2022-02-27 00:00:00 +0100
+  datetime: 2022-02-27 00:00:00 +0100
 - titel: Evangelisation Mežgalciems, Lettland
-  datum: 2022-04-10 00:00:00 +0200
+  datetime: 2022-04-10 00:00:00 +0200
 - titel: Evangelisation Mežgalciems, Lettland
-  datum: 2022-04-11 00:00:00 +0200
+  datetime: 2022-04-11 00:00:00 +0200
 - titel: Evangelisation Mežgalciems, Lettland
-  datum: 2022-04-12 00:00:00 +0200
+  datetime: 2022-04-12 00:00:00 +0200
 - titel: Evangelisation Mežgalciems, Lettland
-  datum: 2022-04-13 00:00:00 +0200
+  datetime: 2022-04-13 00:00:00 +0200
 - titel: Evangelisation Mežgalciems, Lettland
-  datum: 2022-04-14 00:00:00 +0200
+  datetime: 2022-04-14 00:00:00 +0200
 - titel: Evangelisation Mežgalciems, Lettland
-  datum: 2022-04-15 00:00:00 +0200
+  datetime: 2022-04-15 00:00:00 +0200
 - titel: Evangelisation Mežgalciems, Lettland
-  datum: 2022-04-16 00:00:00 +0200
+  datetime: 2022-04-16 00:00:00 +0200
 - titel: Evangelisation Mežgalciems, Lettland
-  datum: 2022-04-17 00:00:00 +0200
+  datetime: 2022-04-17 00:00:00 +0200
 - titel: Blaukreuz-Zentrum Schloss Zahren
-  datum: 2022-05-26 00:00:00 +0200
+  datetime: 2022-05-26 00:00:00 +0200
 - titel: Evangelisation Waren (Müritz)
-  datum: 2022-09-18 00:00:00 +0200
+  datetime: 2022-09-18 00:00:00 +0200
 - titel: Evangelisation Waren (Müritz)
-  datum: 2022-09-19 00:00:00 +0200
+  datetime: 2022-09-19 00:00:00 +0200
 - titel: Evangelisation Waren (Müritz)
-  datum: 2022-09-20 00:00:00 +0200
+  datetime: 2022-09-20 00:00:00 +0200
 - titel: Evangelisation Waren (Müritz)
-  datum: 2022-09-21 00:00:00 +0200
+  datetime: 2022-09-21 00:00:00 +0200
 - titel: Evangelisation Waren (Müritz)
-  datum: 2022-09-22 00:00:00 +0200
+  datetime: 2022-09-22 00:00:00 +0200
 - titel: Evangelisation Waren (Müritz)
-  datum: 2022-09-23 00:00:00 +0200
+  datetime: 2022-09-23 00:00:00 +0200
 - titel: Evangelisation Waren (Müritz)
-  datum: 2022-09-24 00:00:00 +0200
+  datetime: 2022-09-24 00:00:00 +0200
 - titel: Evangelisation Waren (Müritz)
-  datum: 2022-09-25 00:00:00 +0200
+  datetime: 2022-09-25 00:00:00 +0200
 ---

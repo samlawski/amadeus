@@ -11,11 +11,11 @@
       <input type="text" name="datum" value="" placeholder="Datum">
       <div class="termine">
         {% assign timestamp_now = "now" | date: "%s" %}
-        {% assign termine = site.data.termine | sort: "datum" %}
+        {% assign termine = site.data.termine | sort: "datetime" %}
         {% assign future_termine = "" | split: ',' %}
 
         {% for termin in termine %}
-          {% assign timestamp_termin = termin.datum | date: "%s" %}
+          {% assign timestamp_termin = termin.datetime | date: "%s" %}
           {% if timestamp_termin >= timestamp_now %}
             {% assign future_termine = future_termine | push: termin %}
           {% endif %}
@@ -27,8 +27,8 @@
           <div class="termine__list">
             {% for termin in future_termine limit: 8 %}
               <div class="termine__item">
-                <strong data-date='{{ termin.datum | date: "%Y-%m-%d" }}'>
-                  {{ termin.datum | date: "%d.%m.%Y" }}:
+                <strong data-date='{{ termin.datetime | date: "%Y-%m-%d" }}'>
+                  {{ termin.datetime | date: "%d.%m.%Y" }}:
                 </strong>
                 &nbsp;{{ termin.titel }}
               </div>
