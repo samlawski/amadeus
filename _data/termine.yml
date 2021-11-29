@@ -1,17 +1,5 @@
 ---
-- titel: EFG Eisenhüttenstadt 10 Uhr
-  datetime: 2021-09-26 00:00:00 +0200
-- titel: EFG Waren (Müritz) 9:30 Uhr
-  datetime: 2021-10-03 00:00:00 +0200
-- titel: Paulus-Gemeinde Mahlow 10 Uhr
-  datetime: 2021-10-10 00:00:00 +0200
-- titel: Taufgottesdienst Guben 10 Uhr
-  datetime: 2021-10-17 00:00:00 +0200
-- titel: EFG Waren (Müritz) 9:30 Uhr
-  datetime: 2021-10-24 00:00:00 +0200
-- titel: EFG Eisenhüttenstadt 10 Uhr
-  datetime: 2021-11-28 00:00:00 +0100
-- titel: Evangelisation Waren (Müritz) 17 Uhr
+- titel: 'Evangelisation Waren (Müritz) 17 Uhr: abgesagt wg. Covid-19'
   datetime: 2021-12-03 00:00:00 +0100
 - titel: Evangelisation Waren (Müritz) 17 Uhr
   datetime: 2021-12-10 00:00:00 +0100
