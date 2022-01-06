@@ -1,12 +1,4 @@
 ---
-- titel: 'Evangelisation Waren (Müritz) 17 Uhr: abgesagt wg. Covid-19'
-  datetime: 2021-12-03 17:00:00 +0100
-- titel: 'Evangelisation Waren (Müritz) 17 Uhr: abgesagt wg. Covid-19'
-  datetime: 2021-12-10 00:00:00 +0100
-- titel: EFG Zeesen 10 Uhr
-  datetime: 2021-12-12 00:00:00 +0100
-- titel: 'Evangelisation Waren (Müritz) 17 Uhr: abgesagt wg. Covid-19'
-  datetime: 2021-12-17 00:00:00 +0100
 - titel: EFG Waren (Müritz) 9:30 Uhr
   datetime: 2022-01-09 00:00:00 +0100
 - titel: EFG Eisenhüttenstadt 10:00 Uhr
@@ -35,6 +27,8 @@
   datetime: 2022-04-16 00:00:00 +0200
 - titel: Evangelisation Mežgalciems, Lettland
   datetime: 2022-04-17 00:00:00 +0200
+- titel: EFG Eisenhüttenstadt 10:00 Uhr
+  datetime: 2022-05-15 10:00:00 +0200
 - titel: EFG Zeesen 10:00 Uhr
   datetime: 2022-05-22 10:00:00 +0200
 - titel: Blaukreuz-Zentrum Schloss Zahren
