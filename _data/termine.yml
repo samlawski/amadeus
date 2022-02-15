@@ -23,12 +23,20 @@
   datetime: 2022-04-16 00:00:00 +0200
 - titel: Evangelisation Mežgalciems, Lettland
   datetime: 2022-04-17 00:00:00 +0200
+- titel: EFG Waren (Müritz) 9:30 Uhr
+  datetime: 2022-05-08 09:30:00 +0200
 - titel: EFG Eisenhüttenstadt 10:00 Uhr
   datetime: 2022-05-15 10:00:00 +0200
 - titel: EFG Zeesen 10:00 Uhr
   datetime: 2022-05-22 10:00:00 +0200
 - titel: Blaukreuz-Zentrum Schloss Zahren
   datetime: 2022-05-26 00:00:00 +0200
+- titel: EFG Waren (Müritz) 9:30 Uhr
+  datetime: 2022-06-12 09:30:00 +0200
+- titel: EFG Waren (Müritz) 9:30 Uhr
+  datetime: 2022-06-26 09:30:00 +0200
+- titel: EFG Waren (Müritz) 9:30 Uhr
+  datetime: 2022-09-04 09:30:00 +0200
 - titel: Evangelisation Waren (Müritz)
   datetime: 2022-09-18 00:00:00 +0200
 - titel: Evangelisation Waren (Müritz)
@@ -45,4 +53,8 @@
   datetime: 2022-09-24 00:00:00 +0200
 - titel: Evangelisation Waren (Müritz)
   datetime: 2022-09-25 00:00:00 +0200
+- titel: EFG Waren (Müritz) 9:30 Uhr
+  datetime: 2022-10-02 00:00:00 +0200
+- titel: EFG Waren (Müritz) 9:30 Uhr
+  datetime: 2022-10-30 00:00:00 +0200
 ---
