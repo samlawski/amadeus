@@ -1,8 +1,8 @@
 ---
-- titel: EFG Eisenhüttenstadt 10:00 Uhr
-  datetime: 2022-02-20 10:00:00 +0100
 - titel: EFG Waren (Müritz) 9:30 Uhr
   datetime: 2022-02-27 00:00:00 +0100
+- titel: EFG Eisenhüttenstadt 10:00 Uhr
+  datetime: 2022-03-06 10:00:00 +0100
 - titel: EFG Zeesen 10:00 Uhr
   datetime: 2022-03-27 10:00:00 +0200
 - titel: EFG Falkensee 10:00 Uhr
