@@ -26,7 +26,13 @@
 - titel: Evangelisation Waren (Müritz)
   datetime: 2022-09-24 00:00:00 +0200
 - titel: Evangelisation Waren (Müritz)
+  datetime: '2022-09-24T22:00:00.000Z'
+- titel: Evangelisation Waren (Müritz)
   datetime: 2022-09-25 00:00:00 +0200
+- titel: Evangelism Summit Düsseldorf
+  datetime: 2022-09-30 00:00:00 +0200
+- titel: Evangelism Summit Düsseldorf
+  datetime: 2022-10-01 00:00:00 +0200
 - titel: EFG Waren (Müritz) 9:30 Uhr
   datetime: 2022-10-02 00:00:00 +0200
 - titel: Evangelisation Lettland
@@ -61,6 +67,4 @@
   datetime: 2023-02-12 00:00:00 +0100
 - titel: EFG Waren (Müritz) 9:30 Uhr
   datetime: 2023-03-12 00:00:00 +0100
-- titel: Evangelism Summit Düsseldorf
-  datetime: 2022-09-30 00:00:00 +0200
 ---
