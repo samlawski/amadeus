@@ -1,8 +1,5 @@
----
 - titel: EFG Eisenhüttenstadt 10:00 Uhr
   datetime: 2022-08-21 10:00:00 +0200
-- titel: EFG Waren (Müritz) 9:30 Uhr
-  datetime: 2022-09-04 07:30:00
 - titel: Jugendfreizeit Baienfurt
   datetime: 2022-09-05 09:30:00 +0200
 - titel: Jugendfreizeit Baienfurt
@@ -26,7 +23,7 @@
 - titel: Evangelisation Waren (Müritz)
   datetime: 2022-09-24 00:00:00 +0200
 - titel: Evangelisation Waren (Müritz)
-  datetime: 2022-09-24T22:00:00.000Z
+  datetime: 2022-09-24 22:00:00
 - titel: Evangelisation Waren (Müritz)
   datetime: 2022-09-25 00:00:00 +0200
 - titel: Evangelism Summit Düsseldorf
@@ -67,4 +64,3 @@
   datetime: 2023-02-12 00:00:00 +0100
 - titel: EFG Waren (Müritz) 9:30 Uhr
   datetime: 2023-03-12 00:00:00 +0100
----
