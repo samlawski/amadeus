@@ -1,5 +1,3 @@
-- titel: EFG Eisenhüttenstadt 10:00 Uhr
-  datetime: 2022-12-04 10:00:00 +0100
 - titel: Jugendfreizeit Baienfurt
   datetime: 2022-09-05 09:30:00 +0200
 - titel: Jugendfreizeit Baienfurt
@@ -56,6 +54,8 @@
   datetime: 2022-11-20 00:00:00 +0100
 - titel: EFG Waren (Müritz) 9:30 Uhr
   datetime: 2022-11-27 00:00:00 +0100
+- titel: EFG Eisenhüttenstadt 10:00 Uhr
+  datetime: 2022-12-04 10:00:00 +0100
 - titel: EFG Zeesen 10:00 Uhr
   datetime: 2022-12-11 00:00:00 +0100
 - titel: EFG Waren (Müritz) 9:30 Uhr
