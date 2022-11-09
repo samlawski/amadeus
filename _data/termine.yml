@@ -29,7 +29,7 @@
 - titel: EFG Frankfurt (Oder) 10:00 Uhr
   datetime: '2023-03-18T23:00:00.000Z'
 - titel: EFG Zeesen 10:00 Uhr
-  datetime: 2023-03-26 00:00:00 +0100
+  datetime: '2023-03-25T23:00:00.000Z'
 - titel: Evangelisation Lettland
   datetime: 2023-04-02 00:00:00 +0200
 - titel: Evangelisation Lettland
@@ -46,3 +46,5 @@
   datetime: 2023-04-07 22:00:00
 - titel: Evangelisation Lettland
   datetime: 2023-04-09 00:00:00 +0200
+- titel: EFG Zeesen 10:00 Uhr
+  datetime: 2023-04-30 00:00:00 +0200
